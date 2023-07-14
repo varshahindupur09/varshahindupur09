@@ -1,8 +1,9 @@
 ### Hi there 👋
+my name is Varsha Hindupur
 
 <img src="https://github.com/varshahindupur09/varshahindupur09/blob/main/portfolio%20template1024_1.jpeg" />
 
-- 🌱 I’m currently learning Machine Learning and Intelligent Systems Development in Northeastern University 🏫
+- 🌱 I’m currently learning Machine Learning and Intelligent Systems Development at Northeastern University 🏫
 - 👯 I’m looking to collaborate on Data Science or Software Development Initiatives
 - 💬 Feel free to reach out to me on varsha.hindupur@gmail.com
 - 📫 How to reach me: LinkedIn[https://www.linkedin.com/in/varsha-hindupur-4aaa83175/]
