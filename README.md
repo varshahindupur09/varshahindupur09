@@ -27,10 +27,16 @@ Data Exploration Tool: AWS-based meteorological data tool that integrates GOES, 
 
 💡 Technical Skills
 Languages: Python, JavaScript, TypeScript, HTML/CSS, React, Node.js, Flutter, Unix Bash
+
 Databases: MongoDB, PostgreSQL, MySQL, DynamoDB, Redis
+
 AI/ML: TensorFlow, Keras, Langchain, MLOps pipelines, LLMs
+
 Cloud Services: AWS, Azure, GCP, Docker, Kubernetes
+
 DevOps Tools: Jenkins, Maven, Nginx, Airflow, GitHub Actions, CI/CD pipelines
+
 Frameworks: Flask, Spring Boot, Django, FastAPI
+
 Other Tools: Postman, Snowflake, Elasticsearch
 
