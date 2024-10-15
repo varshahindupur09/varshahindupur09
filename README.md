@@ -18,4 +18,19 @@ I'm a passionate software developer and tech enthusiast with a focus on building
 - Email: hindupur.v@northeastern.edu
 - Gmail: varsha.hindupur@gmail.com
 
+📂 Notable Projects
+Real-Time Social Media Platform (Microservices): Developed with Python, RabbitMQ, and Docker, this platform enables instant interactions between users while also tracking admin posts.
+AirCast: An AI-powered air quality forecasting app built using LSTM, streaming data, and AWS S3.
+AI-Powered Anomaly Detection System: A security-driven AI firewall for real-time anomaly detection, built using TensorFlow.
+ChatWith: A SaaS-based chatbot mobile app utilizing Flutter, Spring Boot, WebSockets, and Redis.
+Data Exploration Tool: AWS-based meteorological data tool that integrates GOES, NEXRAD satellite data for metadata retrieval and analysis.
+
+💡 Technical Skills
+Languages: Python, JavaScript, TypeScript, HTML/CSS, React, Node.js, Flutter, Unix Bash
+Databases: MongoDB, PostgreSQL, MySQL, DynamoDB, Redis
+AI/ML: TensorFlow, Keras, Langchain, MLOps pipelines, LLMs
+Cloud Services: AWS, Azure, GCP, Docker, Kubernetes
+DevOps Tools: Jenkins, Maven, Nginx, Airflow, GitHub Actions, CI/CD pipelines
+Frameworks: Flask, Spring Boot, Django, FastAPI
+Other Tools: Postman, Snowflake, Elasticsearch
 
