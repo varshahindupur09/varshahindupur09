@@ -16,4 +16,6 @@ I'm a passionate software developer and tech enthusiast with a focus on building
 
 📧 How to reach me:
 - Email: hindupur.v@northeastern.edu
-- Gmail: varsha.hindupur@gmail.com' > README.md
+- Gmail: varsha.hindupur@gmail.com'
+
+
