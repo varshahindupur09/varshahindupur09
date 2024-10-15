@@ -21,11 +21,11 @@ I'm a passionate software developer and tech enthusiast with a focus on building
 🔗 LinkedIn: linkedin.com/in/varsha-hindupur
 
 ## 📂 Notable Projects
-🛠️ Real-Time Social Media Platform (Microservices): Developed with Python, RabbitMQ, and Docker, this platform enables instant interactions between users while also tracking admin posts.
-🛠️ AirCast: An AI-powered air quality forecasting app built using LSTM, streaming data, and AWS S3.
-🛠️ AI-Powered Anomaly Detection System: A security-driven AI firewall for real-time anomaly detection, built using TensorFlow.
-🛠️ ChatWith: A SaaS-based chatbot mobile app utilizing Flutter, Spring Boot, WebSockets, and Redis.
-🛠️ Data Exploration Tool: AWS-based meteorological data tool that integrates GOES, NEXRAD satellite data for metadata retrieval and analysis.
+🛠️ Real-Time Social Media Platform (Microservices): Developed with Python, RabbitMQ, and Docker, this platform enables instant interactions between users while also tracking admin posts. <br />
+🛠️ AirCast: An AI-powered air quality forecasting app built using LSTM, streaming data, and AWS S3. <br />
+🛠️ AI-Powered Anomaly Detection System: A security-driven AI firewall for real-time anomaly detection, built using TensorFlow. <br />
+🛠️ ChatWith: A SaaS-based chatbot mobile app utilizing Flutter, Spring Boot, WebSockets, and Redis. <br />
+🛠️ Data Exploration Tool: AWS-based meteorological data tool that integrates GOES, NEXRAD satellite data for metadata retrieval and analysis. <br />
 
 ## 💡Technical Skills
 ⚡ Languages: Python, JavaScript, TypeScript, HTML/CSS, React, Node.js, Flutter, Unix Bash <br />
