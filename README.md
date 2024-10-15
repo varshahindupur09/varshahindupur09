@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Varsha Hindupur 👋
 
-<!--
-**varshahindupur09/varshahindupur09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Welcome to my GitHub profile! ✨ 
 
-Here are some ideas to get you started:
+I'm a passionate software developer and tech enthusiast with a focus on building high-performance applications in full-stack development. I love working on challenging problems and learning new technologies to create scalable and efficient software solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 👩‍💻 About Me
+🔭 Currently working on multi-user chat applications and real-time systems using Flutter and Spring Boot.
+🌱 I’m constantly learning new frameworks and tools like GraphQL, Docker, and Kubernetes. 
+👯 I’m looking to collaborate on building GenAI applications using Vector Databases, LLMs, TensorFlow, Langchain, Langsmith, AI Agents and MLOps pipelines. 
+💬 Looking to collaborate on open-source projects and full-stack development projects.
+⚡ Fun fact: I love solving algorithm challenges on platforms like LeetCode and Codeforces. You can check out this repo where I store the questions: ![PSA](!https://github.com/varshahindupur09/Program-Structures-And-Algorithms)
+📫 How to reach me: hindupur.v@northeastern.edu or varsha.hindupur@gmail.com or ![LinkedIn](https://www.linkedin.com/in/varsha-hindupur/)  
