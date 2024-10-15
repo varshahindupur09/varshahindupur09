@@ -6,14 +6,15 @@ I'm a passionate software developer and tech enthusiast with a focus on building
 
 
 ## 👩‍💻 About Me
-🔭 Currently working on multi-user chat applications and real-time systems using Flutter and Spring Boot.
-🌱 I’m constantly learning new frameworks and tools like GraphQL, Docker, and Kubernetes. 
-🛠️ Skilled in: Web Development, Cloud Technologies, Backend Systems, and AI.
-👯 I’m looking to collaborate on building GenAI applications using Vector Databases, LLMs, TensorFlow, Langchain, Langsmith, AI Agents and MLOps pipelines. 
-💬 Looking to collaborate on open-source projects and full-stack development projects.
-📚 Hands-on experience in using Airflow, Kafka, Hadoop and other data engineering tools.
-⚡ **Fun fact:** I love solving algorithm challenges on platforms like **LeetCode** and **Codeforces**. You can check out this repo where I store the questions: 
-[PSA](https://github.com/varshahindupur09/Program-Structures-And-Algorithms).
+🔭 Currently working on multi-user chat applications and real-time systems using Flutter and Spring Boot. <br />
+🌱 I’m constantly learning new frameworks and tools like GraphQL, Docker, and Kubernetes. <br />
+🛠️ Skilled in: Web Development, Cloud Technologies, Backend Systems, and AI. <br />
+👯 I’m looking to collaborate on building GenAI applications using Vector Databases, LLMs, TensorFlow, Langchain, Langsmith, AI Agents and MLOps pipelines. <br />
+💬 Looking to collaborate on open-source projects and full-stack development projects. <br />
+📚 Hands-on experience in using Airflow, Kafka, Hadoop and other data engineering tools. <br />
+⚡ **Fun fact:** I love solving algorithm challenges on platforms like **LeetCode** and **Codeforces**. <br />
+  You can check out this repo where I store the questions: <br />
+  [PSA](https://github.com/varshahindupur09/Program-Structures-And-Algorithms).
 
 ## 📬 Let's Connect! 📧 How to reach me:
 📧 Email: hindupur.v@northeastern.edu
