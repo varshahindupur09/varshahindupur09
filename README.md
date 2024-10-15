@@ -26,17 +26,11 @@ ChatWith: A SaaS-based chatbot mobile app utilizing Flutter, Spring Boot, WebSoc
 Data Exploration Tool: AWS-based meteorological data tool that integrates GOES, NEXRAD satellite data for metadata retrieval and analysis.
 
 💡 Technical Skills
-Languages: Python, JavaScript, TypeScript, HTML/CSS, React, Node.js, Flutter, Unix Bash
-
-Databases: MongoDB, PostgreSQL, MySQL, DynamoDB, Redis
-
-AI/ML: TensorFlow, Keras, Langchain, MLOps pipelines, LLMs
-
-Cloud Services: AWS, Azure, GCP, Docker, Kubernetes
-
-DevOps Tools: Jenkins, Maven, Nginx, Airflow, GitHub Actions, CI/CD pipelines
-
-Frameworks: Flask, Spring Boot, Django, FastAPI
-
-Other Tools: Postman, Snowflake, Elasticsearch
+Languages: Python, JavaScript, TypeScript, HTML/CSS, React, Node.js, Flutter, Unix Bash <br />
+Databases: MongoDB, PostgreSQL, MySQL, DynamoDB, Redis <br />
+AI/ML: TensorFlow, Keras, Langchain, MLOps pipelines, LLMs <br />
+Cloud Services: AWS, Azure, GCP, Docker, Kubernetes <br />
+DevOps Tools: Jenkins, Maven, Nginx, Airflow, GitHub Actions, CI/CD pipelines <br />
+Frameworks: Flask, Spring Boot, Django, FastAPI <br />
+Other Tools: Postman, Snowflake, Elasticsearch <br />
 
