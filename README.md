@@ -23,7 +23,7 @@ I'm a passionate software developer and tech enthusiast with a focus on building
 
 ## 📂 Notable Projects
 <strong>Topic:</strong> Two Web Application Development, Event Driven Architecture<br />
-🛠️ <strong>Real-Time Social Media Platform (Microservices):</strong> Developed with Python (Django and Flask), RabbitMQ, and Docker, this platform enables instant interactions between users while also tracking admin posts. <br />
+🛠️ <strong>Real-Time Social Media Platform (Microservices):</strong> Developed with Python (Django and Flask), RabbitMQ, and Docker, this platform enables instant interactions between users while also tracking admin posts.[LinkToRepo](https://github.com/varshahindupur09/Real_Time_Event_Driven_Communication.git)<br />
 
 <strong>Topic:</strong> Backend Engineering, Data Engineering, Data Science, Data Visualization, Data Analysis:<br />
 🛠️ <strong>AirCast:</strong> An AI-powered air quality forecasting app built using LSTM, streaming data, and AWS S3. Backend services built for Microservices architecture were to connection to database using SQLAlchemy (ORM), adhoc and batch data processing, APIs (syncronous RESTful), and deployment scripts. [LinkToRepo](https://github.com/varshahindupur09/AirCast-Predicting-Air-Quality-Using-Machine-Learning.git) <br />
@@ -32,10 +32,10 @@ I'm a passionate software developer and tech enthusiast with a focus on building
 🛠️ AI-Powered Anomaly Detection System: A security-driven AI firewall for real-time anomaly detection, built using TensorFlow. <br />
 
 <strong>Topic:</strong> Mobile Application Development, Event Driven Architecture:<br />
-🛠️ ChatWith: A SaaS-based chatbot mobile app utilizing Flutter, Spring Boot, WebSockets, and Redis. <br />
+🛠️ ChatWith: A SaaS-based chatbot mobile app utilizing Flutter, Spring Boot, WebSockets, and Redis. [LinkToRepo](https://github.com/varshahindupur09/chatapp_for_communication.git) <br />
 
 <strong>Topic:</strong> Cloud Computing, Data Extraction, Data Augumentation:<br />
-🛠️ Data Exploration Tool: AWS-based meteorological data tool that integrates GOES, NEXRAD satellite data for metadata retrieval and analysis. <br />
+🛠️ Data Exploration Tool: AWS-based meteorological data tool that integrates GOES, NEXRAD satellite data for metadata retrieval and analysis. [LinkToRepo](https://github.com/varshahindupur09/Weather-Explorer-Interactive-Weather-Data-Visualization.git)<br />
 
 ## 💡Technical Skills
 ⚡ Languages: Python, JavaScript, TypeScript, HTML/CSS, React, Node.js, Flutter, Unix Bash <br />
