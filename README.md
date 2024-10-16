@@ -8,7 +8,8 @@ I'm a passionate software developer and tech enthusiast with a focus on building
 ## 👩‍💻 About Me
 🔭 Currently working on multi-user chat applications and real-time systems using Flutter and Spring Boot. <br />
 🌱 I’m constantly learning new frameworks and tools like GraphQL, Docker, and Kubernetes. <br />
-🛠️ Skilled in: <strong>Frontend Languages:</strong> HTML, CSS, React.js, Next.js, TypeScript <strong>Frameworks:</strong> Shadcn, Tailwind CSS, Material UI, Framer Motion  <br />
+🛠️ Skilled in: <strong>Frontend Languages:</strong> HTML, CSS, React.js, Next.js, TypeScript  <br />
+🛠️ Skilled in: <strong>Frameworks:</strong> Shadcn, Tailwind CSS, Material UI, Framer Motion  <br />
 🛠️ Skilled in:  <strong>Backend Technologies:</strong> Nginx (Load Balancer), Redis (Cache), REST APIs, Asyncronous APIs, Databases (ORM) <br />
 🛠️ Skilled in: Skilled in: <strong>Backend languages:</strong> SpringBoot, Node.js, Mongoose.js, Express.js, Python (Django), FAST API, Flask API <br />
 🛠️ Skilled in: Web Development, Cloud Technologies, Frontend, Backend Systems, Machine Learning and AI. <br />
