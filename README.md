@@ -23,7 +23,7 @@ I'm a passionate software developer and tech enthusiast with a focus on building
 
 ## 📂 Notable Projects
 <strong>Topic:</strong> Two Web Application Development, Event Driven Architecture<br />
-🛠️ <strong>Real-Time Social Media Platform (Microservices):</strong> Developed with Python (Django and Flask), RabbitMQ, and Docker, this platform enables instant interactions between users while also tracking admin posts.[LinkToRepo](https://github.com/varshahindupur09/Real_Time_Event_Driven_Communication.git)<br />
+🛠️ <strong>Real-Time Social Media Platform (Microservices):</strong> Developed with Python (Django and Flask), RabbitMQ, and Docker, this platform enables instant interactions between users while also tracking admin posts. [LinkToRepo](https://github.com/varshahindupur09/Real_Time_Event_Driven_Communication.git)<br />
 
 <strong>Topic:</strong> Backend Engineering, Data Engineering, Data Science, Data Visualization, Data Analysis:<br />
 🛠️ <strong>AirCast:</strong> An AI-powered air quality forecasting app built using LSTM, streaming data, and AWS S3. Backend services built for Microservices architecture were to connection to database using SQLAlchemy (ORM), adhoc and batch data processing, APIs (syncronous RESTful), and deployment scripts. [LinkToRepo](https://github.com/varshahindupur09/AirCast-Predicting-Air-Quality-Using-Machine-Learning.git) <br />
