@@ -22,19 +22,19 @@ I'm a passionate software developer and tech enthusiast with a focus on building
 🔗 LinkedIn: linkedin.com/in/varsha-hindupur
 
 ## 📂 Notable Projects
-<strong>Topic:</strong> Two Web Application Development, Event Driven Architecture
+<strong>Topic:</strong> Two Web Application Development, Event Driven Architecture<br />
 🛠️ <strong>Real-Time Social Media Platform (Microservices):</strong> Developed with Python (Django and Flask), RabbitMQ, and Docker, this platform enables instant interactions between users while also tracking admin posts. <br />
 
-<strong>Topic:</strong> Backend Engineering, Data Engineering, Data Science, Data Visualization, Data Analysis:
+<strong>Topic:</strong> Backend Engineering, Data Engineering, Data Science, Data Visualization, Data Analysis:<br />
 🛠️ <strong>AirCast:</strong> An AI-powered air quality forecasting app built using LSTM, streaming data, and AWS S3. Backend services built for Microservices architecture were to connection to database using SQLAlchemy (ORM), adhoc and batch data processing, APIs (syncronous RESTful), and deployment scripts. [LinkToRepo](https://github.com/varshahindupur09/AirCast-Predicting-Air-Quality-Using-Machine-Learning.git) <br />
 
-<strong>Topic:</strong> Machine Learning:
+<strong>Topic:</strong> Machine Learning:<br />
 🛠️ AI-Powered Anomaly Detection System: A security-driven AI firewall for real-time anomaly detection, built using TensorFlow. <br />
 
-<strong>Topic:</strong> Mobile Application Development, Event Driven Architecture:
+<strong>Topic:</strong> Mobile Application Development, Event Driven Architecture:<br />
 🛠️ ChatWith: A SaaS-based chatbot mobile app utilizing Flutter, Spring Boot, WebSockets, and Redis. <br />
 
-<strong>Topic:</strong> Cloud Computing, Data Extraction, Data Augumentation
+<strong>Topic:</strong> Cloud Computing, Data Extraction, Data Augumentation:<br />
 🛠️ Data Exploration Tool: AWS-based meteorological data tool that integrates GOES, NEXRAD satellite data for metadata retrieval and analysis. <br />
 
 ## 💡Technical Skills
