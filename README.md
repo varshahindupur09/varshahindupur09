@@ -38,7 +38,7 @@ I'm a passionate software developer and tech enthusiast with a focus on building
 🛠️ Data Exploration Tool: AWS-based meteorological data tool that integrates GOES, NEXRAD satellite data for metadata retrieval and analysis. [LinkToRepo](https://github.com/varshahindupur09/Weather-Explorer-Interactive-Weather-Data-Visualization.git)<br />
 
 <strong>Topic:</strong> Healthcare, Machine Learning, High Performance Computing Cluster:<br />
-🛠️ Lung and Colon Cancer Prediction: Harnessed the power of parallelism and GPU acceleration to achieve faster convergence and improved model performance. [LinkToRepo](https://github.com/varshahindupur09/Cancer-Detection-with-High-Performance-Computing-HPC.git)<br />
+🛠️ Lung and Colon Cancer Prediction: Harnessed the power of parallelism and GPU acceleration using CUDA to achieve faster convergence and improved model performance. [LinkToRepo](https://github.com/varshahindupur09/Cancer-Detection-with-High-Performance-Computing-HPC.git)<br />
 
 ## 💡Technical Skills
 ⚡ Languages: Python, JavaScript, TypeScript, HTML/CSS, React, Node.js, Flutter, Unix Bash <br />
