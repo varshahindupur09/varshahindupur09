@@ -7,6 +7,7 @@ I'm a passionate software developer and tech enthusiast with a focus on building
 
 ## 👩‍💻 About Me
 🔭 Currently working on multi-user chat applications and real-time systems using Flutter and Spring Boot. <br />
+I'm working as Full Stack Engineer, Research under a Professor in Northeastern University. I've build frontend, backend, security and cloud infrastructure from scratch for this project.
 🌱 I’m constantly learning new frameworks and tools like GraphQL, Docker, and Kubernetes. <br />
 🛠️ Skilled in: <strong>Frontend Languages:</strong> HTML, CSS, React.js, Next.js, TypeScript  <br />
 🛠️ Skilled in: <strong>Frameworks:</strong> Shadcn, Tailwind CSS, Material UI, Framer Motion  <br />
