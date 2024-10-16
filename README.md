@@ -8,8 +8,11 @@ I'm a passionate software developer and tech enthusiast with a focus on building
 ## 👩‍💻 About Me
 🔭 Currently working on multi-user chat applications and real-time systems using Flutter and Spring Boot. <br />
 🌱 I’m constantly learning new frameworks and tools like GraphQL, Docker, and Kubernetes. <br />
-🛠️ Skilled in: Web Development, Cloud Technologies, Backend Systems, and AI. <br />
-👯 I’m looking to collaborate on building GenAI applications using Vector Databases, LLMs, TensorFlow, Langchain, Langsmith, AI Agents and MLOps pipelines. <br />
+🛠️ Skilled in: <strong>Frontend Languages:</strong> HTML, CSS, React.js, Next.js, TypeScript <strong>Frameworks:</strong> Shadcn, Tailwind CSS, Material UI, Framer Motion  <br />
+🛠️ Skilled in:  <strong>Backend Technologies:</strong> Nginx (Load Balancer), Redis (Cache), REST APIs, Asyncronous APIs, Databases (ORM) <br />
+🛠️ Skilled in: Skilled in: <strong>Backend languages:</strong> SpringBoot, Node.js, Mongoose.js, Express.js, Python (Django), FAST API, Flask API <br />
+🛠️ Skilled in: Web Development, Cloud Technologies, Frontend, Backend Systems, Machine Learning and AI. <br />
+👯 Collaborating and building GenAI applications using Vector Databases, LLMs, TensorFlow, Langchain, Langsmith, AI Agents and MLOps pipelines. <br />
 💬 Looking to collaborate on open-source projects and full-stack development projects. <br />
 📚 Hands-on experience in using Airflow, Kafka, Hadoop and other data engineering tools. <br />
 ⚡ **Fun fact:** I solve algorithm challenges on platforms like **LeetCode** and **HackerRank** with the help of some ☕. <br />
