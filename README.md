@@ -24,7 +24,7 @@ I'm a passionate software developer and tech enthusiast with a focus on building
 ## 📬 Let's Connect! 📧 How to reach me:
 📧 Email: hindupur.v@northeastern.edu
 📧 Gmail: varsha.hindupur@gmail.com
-🔗 LinkedIn: linkedin.com/in/varsha-hindupur
+🔗 LinkedIn: [linkedin.com/in/varsha-hindupur](https://www.linkedin.com/in/varsha-hindupur/)
 
 ## 📂 Notable Projects
 <strong>Topic:</strong> Two Web Application Development, Event Driven Architecture<br />
