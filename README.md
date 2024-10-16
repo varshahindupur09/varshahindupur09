@@ -1,8 +1,8 @@
-# Hi there, I'm Varsha Hindupur 👋
+# Hi there, I'm Varsha Seshashayee Hindupur 👋
 
 ✨ Welcome to my GitHub profile! ✨ 
 
-I'm a passionate software developer and tech enthusiast with a focus on building high-performance applications in full-stack development. I love working on challenging problems and learning new technologies to create scalable and efficient software solutions.
+I'm a passionate software developer and tech enthusiast with a focus on building high-performance applications in full-stack development. I love working on challenging problems and learning new technologies to create scalable and efficient software solutions. I've completed recently my Masters in Information Systems! Looking for a full-time opportunity as Full Stack Engineer, Backend Engineer or Software Developer!
 
 
 ## 👩‍💻 About Me
@@ -49,3 +49,4 @@ I'm a passionate software developer and tech enthusiast with a focus on building
 ⚡ Frameworks: Flask, Spring Boot, Django, FastAPI <br />
 ⚡ Other Tools: Postman, Snowflake, Elasticsearch <br />
 
+I'mm always open for collaboration on different projects.
