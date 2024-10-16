@@ -2,7 +2,7 @@
 
 ✨ Welcome to my GitHub profile! ✨ 
 
-I'm a passionate software developer and tech enthusiast with a focus on building high-performance applications in full-stack development. I love working on challenging problems and learning new technologies to create scalable and efficient software solutions. I've completed recently my Masters in Information Systems! Looking for a full-time opportunity as Full Stack Engineer, Backend Engineer or Software Developer!
+I'm a passionate software developer and tech enthusiast with a focus on building high-performance applications in full-stack development. I love working on challenging problems and learning new technologies to create scalable and efficient software solutions. I've completed recently my <strong>Master of Science in Information Systems</strong>! Looking for a full-time opportunity as Full Stack Engineer, Backend Engineer or Software Developer!
 
 
 ## 👩‍💻 About Me
