@@ -12,7 +12,7 @@ I'm a passionate software developer and tech enthusiast with a focus on building
 👯 I’m looking to collaborate on building GenAI applications using Vector Databases, LLMs, TensorFlow, Langchain, Langsmith, AI Agents and MLOps pipelines. <br />
 💬 Looking to collaborate on open-source projects and full-stack development projects. <br />
 📚 Hands-on experience in using Airflow, Kafka, Hadoop and other data engineering tools. <br />
-⚡ **Fun fact:** I ocassionally solve algorithm challenges on platforms like **LeetCode** and **Codeforces**. <br />
+⚡ **Fun fact:** I solve algorithm challenges on platforms like **LeetCode** and **HackerRank** with the help of some ☕. <br />
   You can check out this repo where I store the questions: <br />
   [PSA](https://github.com/varshahindupur09/Program-Structures-And-Algorithms).
 
