@@ -46,6 +46,9 @@ I'm working as Full Stack Engineer, Research under a Professor in Northeastern U
 <strong>Topic:</strong> Healthcare, Machine Learning, High Performance Computing Cluster:<br />
 🛠️ Lung and Colon Cancer Prediction: Harnessed the power of parallelism and GPU acceleration using CUDA to achieve faster convergence and improved model performance. [LinkToRepo](https://github.com/varshahindupur09/Cancer-Detection-with-High-Performance-Computing-HPC.git)<br />
 
+<strong>Topic: Software Development, AI<br />
+🛠️ AI-Powered Anomaly Detection System: Developed an AI-driven firewall using TensorFlow for real-time anomaly detection, enhancing the security of AI interactions
+
 ## Medium Articles
 [click to view](https://medium.com/@varsha.hindupur)
 
