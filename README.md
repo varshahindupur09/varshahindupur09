@@ -35,19 +35,19 @@ I'm working as Full Stack Engineer, Research under a Professor in Northeastern U
 🛠️ <strong>AirCast:</strong> An AI-powered air quality forecasting app built using LSTM, streaming data, and AWS S3. Backend services built for Microservices architecture were to connection to database using SQLAlchemy (ORM), adhoc and batch data processing, APIs (syncronous RESTful), and deployment scripts. [LinkToRepo](https://github.com/varshahindupur09/AirCast-Predicting-Air-Quality-Using-Machine-Learning.git) <br />
 
 <strong>Topic:</strong> Machine Learning:<br />
-🛠️ AI-Powered Anomaly Detection System: A security-driven AI firewall for real-time anomaly detection, built using TensorFlow. <br />
+🛠️ <strong>AI-Powered Anomaly Detection System:</strong> A security-driven AI firewall for real-time anomaly detection, built using TensorFlow. <br />
 
 <strong>Topic:</strong> Mobile Application Development, Event Driven Architecture:<br />
-🛠️ ChatWith: A SaaS-based chatbot mobile app utilizing Flutter, Spring Boot, WebSockets, and Redis. [LinkToRepo](https://github.com/varshahindupur09/chatapp_for_communication.git) <br />
+🛠️ <strong>ChatWith:</strong> A SaaS-based chatbot mobile app utilizing Flutter, Spring Boot, WebSockets, and Redis. [LinkToRepo](https://github.com/varshahindupur09/chatapp_for_communication.git) <br />
 
 <strong>Topic:</strong> Cloud Computing, Data Extraction, Data Augumentation:<br />
-🛠️ Data Exploration Tool: AWS-based meteorological data tool that integrates GOES, NEXRAD satellite data for metadata retrieval and analysis. [LinkToRepo](https://github.com/varshahindupur09/Weather-Explorer-Interactive-Weather-Data-Visualization.git)<br />
+🛠️ <strong>Data Exploration Tool:</strong> AWS-based meteorological data tool that integrates GOES, NEXRAD satellite data for metadata retrieval and analysis. [LinkToRepo](https://github.com/varshahindupur09/Weather-Explorer-Interactive-Weather-Data-Visualization.git)<br />
 
 <strong>Topic:</strong> Healthcare, Machine Learning, High Performance Computing Cluster:<br />
-🛠️ Lung and Colon Cancer Prediction: Harnessed the power of parallelism and GPU acceleration using CUDA to achieve faster convergence and improved model performance. [LinkToRepo](https://github.com/varshahindupur09/Cancer-Detection-with-High-Performance-Computing-HPC.git)<br />
+🛠️ <strong>Lung and Colon Cancer Prediction:</strong> Harnessed the power of parallelism and GPU acceleration using CUDA to achieve faster convergence and improved model performance. [LinkToRepo](https://github.com/varshahindupur09/Cancer-Detection-with-High-Performance-Computing-HPC.git)<br />
 
-<strong>Topic: Software Development, AI<br />
-🛠️ AI-Powered Anomaly Detection System: Developed an AI-driven firewall using TensorFlow for real-time anomaly detection, enhancing the security of AI interactions
+<strong>Topic:</strong> Software Development, AI<br />
+🛠️ <strong>AI-Powered Anomaly Detection System:</strong> Developed an AI-driven firewall using TensorFlow for real-time anomaly detection, enhancing the security of AI interactions
 
 ## Medium Articles
 [click to view](https://medium.com/@varsha.hindupur)
