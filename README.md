@@ -28,8 +28,6 @@ I'm working as Full Stack Engineer, Research under a Professor in Northeastern U
 🔗 LinkedIn: [linkedin.com/in/varsha-hindupur](https://www.linkedin.com/in/varsha-hindupur/)
 
 ## 📂 Notable Projects
-<strong>Topic:</strong> Two Web Application Development, Event Driven Architecture<br />
-🛠️ <strong>Real-Time Social Media Platform (Microservices):</strong> Developed with Python (Django and Flask), RabbitMQ, and Docker, this platform enables instant interactions between users while also tracking admin posts. [LinkToRepo](https://github.com/varshahindupur09/Real_Time_Event_Driven_Communication.git)<br />
 
 <strong>Topic:</strong> Backend Engineering, Data Engineering, Data Science, Data Visualization, Data Analysis:<br />
 🛠️ <strong>AirCast:</strong> An AI-powered air quality forecasting app built using LSTM, streaming data, and AWS S3. Backend services built for Microservices architecture were to connection to database using SQLAlchemy (ORM), adhoc and batch data processing, APIs (syncronous RESTful), and deployment scripts. [LinkToRepo](https://github.com/varshahindupur09/AirCast-Predicting-Air-Quality-Using-Machine-Learning.git) <br />
@@ -48,6 +46,9 @@ I'm working as Full Stack Engineer, Research under a Professor in Northeastern U
 
 <strong>Topic:</strong> Software Development, AI<br />
 🛠️ <strong>AI-Powered Anomaly Detection System:</strong> Developed an AI-driven firewall using TensorFlow for real-time anomaly detection, enhancing the security of AI interactions
+
+<strong>Topic:</strong> Two Web Application Development, Event Driven Architecture<br />
+🛠️ <strong>Real-Time Social Media Platform (Microservices):</strong> Developed with Python (Django and Flask), RabbitMQ, and Docker, this platform enables instant interactions between users while also tracking admin posts. [LinkToRepo](https://github.com/varshahindupur09/Real_Time_Event_Driven_Communication.git)<br />
 
 ## Medium Articles
 [click to view](https://medium.com/@varsha.hindupur)
