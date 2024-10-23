@@ -27,6 +27,9 @@ I'm working as Full Stack Engineer, Research under a Professor in Northeastern U
 📧 Gmail: varsha.hindupur@gmail.com
 🔗 LinkedIn: [linkedin.com/in/varsha-hindupur](https://www.linkedin.com/in/varsha-hindupur/)
 
+## Currently Collaborating on:
+Creating Uber From Scratch: (https://github.com/varshahindupur09/uber-ride-api) This project seeks to develop an open-source, customizable ride-hailing simulation platform similar to Uber. The objective is to offer a tool for researchers, students, and industry professionals to experiment with ride-hailing algorithms, study system dynamics, and drive innovation in urban mobility.
+
 ## 📂 Notable Projects
 
 <strong>Topic:</strong> Backend Engineering, Data Engineering, Data Science, Data Visualization, Data Analysis:<br />
@@ -61,5 +64,3 @@ I'm working as Full Stack Engineer, Research under a Professor in Northeastern U
 ⚡ DevOps Tools: Jenkins, Maven, Nginx, Airflow, GitHub Actions, CI/CD pipelines <br />
 ⚡ Frameworks: Flask, Spring Boot, Django, FastAPI <br />
 ⚡ Other Tools: Postman, Snowflake, Elasticsearch <br />
-
-I'mm always open for collaboration on different projects.
