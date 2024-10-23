@@ -29,7 +29,7 @@ I'm working as Full Stack Engineer, Research under a Professor in Northeastern U
 🔗 LinkedIn: [linkedin.com/in/varsha-hindupur](https://www.linkedin.com/in/varsha-hindupur/)
 
 ## Currently Collaborating on:
-[Creating Uber From Scratch:](https://github.com/varshahindupur09/uber-ride-api) This project seeks to develop an open-source, customizable ride-hailing simulation platform similar to Uber. The objective is to offer a tool for researchers, students, and industry professionals to experiment with ride-hailing algorithms, study system dynamics, and drive innovation in urban mobility.
+[Creating Ride App From Scratch:](https://github.com/varshahindupur09/uber-ride-api) This project seeks to develop an open-source, customizable ride-hailing simulation platform similar to Uber/Lyft. The objective is to offer a tool for researchers, students, and industry professionals to experiment with ride-hailing algorithms, study system dynamics, and drive innovation in urban mobility.
 
 ## 📂 Notable Projects
 
