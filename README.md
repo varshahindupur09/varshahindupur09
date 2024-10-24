@@ -37,6 +37,7 @@ I'm working as Full Stack Engineer, Research under a Professor in Northeastern U
 Created a chatbot using Ollama Gemma:2B for menu assistance and order placement. Leveraged Snowflake to analyze top-selling food items, sales trends, and identify underperforming categories for strategic promotions.<br />
 Skills: Snowflake · Gemma LLM · Vector Databases · AI Agents<br />
 [LinkToRepo](https://github.com/varshahindupur09/AI-Chatbot-Prompt-Engineering-with-NLP)<br />
+[YouTubeDemo](https://youtu.be/hNW7EwDtSws)<br />
 
 ## 📂 Notable Projects
 
