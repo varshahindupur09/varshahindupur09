@@ -31,7 +31,7 @@ I'm working as Full Stack Engineer, Research under a Professor in Northeastern U
 ## Currently Collaborating on:
 [Creating Ride App From Scratch:](https://github.com/varshahindupur09/uber-ride-api) This project seeks to develop an open-source, customizable ride-hailing simulation platform similar to Uber/Lyft. The objective is to offer a tool for researchers, students, and industry professionals to experiment with ride-hailing algorithms, study system dynamics, and drive innovation in urban mobility.
 
-## 📂 GenAI Projects [Prototyped]
+## 📂 GenAI Project
 <strong>Topic:</strong> Backend Engineering, Software Development<br />
 🛠️ <strong>FoodFood Restaurant Web App & Chatbot</strong><br />
 Created a chatbot using Ollama Gemma:2B for menu assistance and order placement. Leveraged Snowflake to analyze top-selling food items, sales trends, and identify underperforming categories for strategic promotions.<br />
