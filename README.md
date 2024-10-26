@@ -24,9 +24,10 @@ I'm working as Full Stack Engineer, Research under a Professor in Northeastern U
   [PSA](https://github.com/varshahindupur09/Program-Structures-And-Algorithms).
 
 ## 📬 Let's Connect! 📧 How to reach me:
-📧 Email: hindupur.v@northeastern.edu
-📧 Gmail: varsha.hindupur@gmail.com
-🔗 LinkedIn: [linkedin.com/in/varsha-hindupur](https://www.linkedin.com/in/varsha-hindupur/)
+📧 Email: hindupur.v@northeastern.edu<br />
+📧 Gmail: varsha.hindupur@gmail.com<br />
+🔗 LinkedIn: [linkedin.com/in/varsha-hindupur](https://www.linkedin.com/in/varsha-hindupur/)<br />
+🌐 Portfolio: https://varshahindupur.com<br />
 
 ## Currently Collaborating on:
 [Creating Ride App From Scratch:](https://github.com/varshahindupur09/uber-ride-api) This project seeks to develop an open-source, customizable ride-hailing simulation platform similar to Uber/Lyft. The objective is to offer a tool for researchers, students, and industry professionals to experiment with ride-hailing algorithms, study system dynamics, and drive innovation in urban mobility.
