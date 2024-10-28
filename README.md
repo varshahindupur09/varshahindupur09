@@ -37,9 +37,15 @@ I'm working as Full Stack Engineer, Research under a Professor in Northeastern U
 <strong>Topic:</strong> Backend Engineering, Software Development<br />
 🛠️ <strong>FoodFood Restaurant Web App & Chatbot</strong><br />
 Created a chatbot using Ollama Gemma:2B for menu assistance and order placement. Leveraged Snowflake to analyze top-selling food items, sales trends, and identify underperforming categories for strategic promotions.<br />
-Skills: Snowflake · Gemma LLM · Vector Databases · AI Agents<br />
+Skills: Snowflake · Gemma LLM · Vector Database · AI Agents<br />
 [LinkToRepo](https://github.com/varshahindupur09/AI-Chatbot-Prompt-Engineering-with-NLP)<br />
 [YouTubeDemo](https://youtu.be/hNW7EwDtSws)<br />
+
+🛠️ <strong>Meeting Intelligence</strong><br />
+Enhanced the meeting intelligence application previously created using Gen AI<br />
+Skills: Gemma LLM · Vector Database (PineCone) · Airflow · OpenAI · LangChain · MongoDB  <br />
+[LinkToRepo](https://github.com/varshahindupur09/AI-Chatbot-Prompt-Engineering-with-NLP)<br />
+[YouTubeDemo](https://youtu.be/VaEv3H-WppY)<br />
 
 ## 📂 Notable Projects
 
