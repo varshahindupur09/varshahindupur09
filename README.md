@@ -44,7 +44,7 @@ Skills: Snowflake · Gemma LLM · Vector Database · AI Agents<br />
 🛠️ <strong>Meeting Intelligence</strong><br />
 Enhanced the meeting intelligence application previously created using Gen AI<br />
 Skills: Gemma LLM · Vector Database (PineCone) · Airflow · OpenAI · LangChain · MongoDB  <br />
-[LinkToRepo](https://github.com/varshahindupur09/AI-Chatbot-Prompt-Engineering-with-NLP)<br />
+[LinkToRepo](https://github.com/varshahindupur09/MeetingIntelligencePromptEngineering)<br />
 [YouTubeDemo](https://youtu.be/VaEv3H-WppY)<br />
 
 ## 📂 Notable Projects
