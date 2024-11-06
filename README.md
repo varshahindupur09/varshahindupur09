@@ -4,7 +4,7 @@
 
 I'm a passionate software developer and tech enthusiast with a focus on building high-performance applications in full-stack development. I love working on challenging problems and learning new technologies to create scalable and efficient software solutions. I've completed recently my <strong>Master of Science in Information Systems</strong>! Looking for a full-time opportunity as Full Stack Engineer, Backend Engineer or Software Developer!
 
-## [Resume!]([https://github.com/varshahindupur09/resume/blob/main/README.md](https://drive.google.com/file/d/1Ilo4Zr_vADu9Ut2ojNREOSnDD6Wgb_G6/view?usp=sharing))
+## [Resume!](https://drive.google.com/file/d/1Ilo4Zr_vADu9Ut2ojNREOSnDD6Wgb_G6/view?usp=sharing)
 
 ## 👩‍💻 About Me
 🔭 Currently working on multi-user chat applications and real-time systems using Flutter and Spring Boot. <br />
