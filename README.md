@@ -34,6 +34,12 @@ I'm working as Full Stack Engineer, Research under a Professor in Northeastern U
 💬[Creating Ride App From Scratch:](https://github.com/varshahindupur09/uber-ride-api) This project seeks to develop an open-source, customizable ride-hailing simulation platform similar to Uber/Lyft. The objective is to offer a tool for researchers, students, and industry professionals to experiment with ride-hailing algorithms, study system dynamics, and drive innovation in urban mobility.
 
 ## 📂 GenAI Project
+
+<strong>Topic:</strong> Software Development, AI<br />
+🛠️ <strong>AI-Powered Anomaly Detection System:</strong> Developed an AI-driven firewall using TensorFlow for real-time anomaly detection, enhancing the security of AI interactions.
+Skills: Generative AI <br />
+[LinkToRepo](https://github.com/varshahindupur09/anomali-detection-gen-ai.git)<br />
+
 <strong>Topic:</strong> Backend Engineering, Software Development<br />
 🛠️ <strong>FoodFood Restaurant Web App & Chatbot</strong><br />
 Created a chatbot using Ollama Gemma:2B for menu assistance and order placement. Leveraged Snowflake to analyze top-selling food items, sales trends, and identify underperforming categories for strategic promotions.<br />
@@ -52,8 +58,6 @@ Skills: Gemma LLM · Vector Database (PineCone) · Airflow · OpenAI · LangChai
 <strong>Topic:</strong> Backend Engineering, Data Engineering, Data Science, Data Visualization, Data Analysis:<br />
 🛠️ <strong>AirCast:</strong> An AI-powered air quality forecasting app built using LSTM, streaming data, and AWS S3. Backend services built for Microservices architecture were to connection to database using SQLAlchemy (ORM), adhoc and batch data processing, APIs (syncronous RESTful), and deployment scripts. [LinkToRepo](https://github.com/varshahindupur09/AirCast-Predicting-Air-Quality-Using-Machine-Learning.git) <br />
 
-<strong>Topic:</strong> Machine Learning:<br />
-🛠️ <strong>AI-Powered Anomaly Detection System:</strong> A security-driven AI firewall for real-time anomaly detection, built using TensorFlow. <br />
 
 <strong>Topic:</strong> Mobile Application Development, Event Driven Architecture:<br />
 🛠️ <strong>ChatWith:</strong> A SaaS-based chatbot mobile app utilizing Flutter, Spring Boot, WebSockets, and Redis. [LinkToRepo](https://github.com/varshahindupur09/chatapp_for_communication.git) <br />
@@ -63,9 +67,6 @@ Skills: Gemma LLM · Vector Database (PineCone) · Airflow · OpenAI · LangChai
 
 <strong>Topic:</strong> Healthcare, Machine Learning, High Performance Computing Cluster:<br />
 🛠️ <strong>Lung and Colon Cancer Prediction:</strong> Harnessed the power of parallelism and GPU acceleration using CUDA to achieve faster convergence and improved model performance. [LinkToRepo](https://github.com/varshahindupur09/Cancer-Detection-with-High-Performance-Computing-HPC.git)<br />
-
-<strong>Topic:</strong> Software Development, AI<br />
-🛠️ <strong>AI-Powered Anomaly Detection System:</strong> Developed an AI-driven firewall using TensorFlow for real-time anomaly detection, enhancing the security of AI interactions
 
 <strong>Topic:</strong> Two Web Application Development, Event Driven Architecture<br />
 🛠️ <strong>Real-Time Social Media Platform (Microservices):</strong> Developed with Python (Django and Flask), RabbitMQ, and Docker, this platform enables instant interactions between users while also tracking admin posts. [LinkToRepo](https://github.com/varshahindupur09/Real_Time_Event_Driven_Communication.git)<br />
