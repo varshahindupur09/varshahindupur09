@@ -23,6 +23,9 @@ I'm working as Full Stack Engineer, Research under a Professor in Northeastern U
   You can check out this repo where I store the questions: <br />
   [PSA](https://github.com/varshahindupur09/Program-Structures-And-Algorithms).
 
+# System Design 
+Twitter: A complete diagnosis and process and architecture [diagram:](https://github.com/varshahindupur09/system_design/blob/main/TwitterSystemDesign.md)
+
 ## 📬 Let's Connect! 📧 How to reach me:
 📧 Email: hindupur.v@northeastern.edu<br />
 🔗 Gmail: varsha.hindupur@gmail.com<br />
