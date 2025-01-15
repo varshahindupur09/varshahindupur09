@@ -5,7 +5,7 @@
 
 ✨ Welcome to my GitHub profile! ✨ 
 
-I'm a Full Stack Software Engineer and tech enthusiast with strong focus on building high-performance web and mobile apps. I love working on challenging problems and learning new technologies to create scalable and efficient software solutions. I work with cloud services like AWS and GCP and previously served as a Generative AI, Machine Learning and Full Stack development Research Assistant (twice) at Northeastern University in Boston, MA. I am also an AWS Certified Solutions Architect Associate with 5 years of full-stack development experience. I've worked for Infosys, Accenture, UST's Blueconch Technologies.
+I'm a Full Stack Software Engineer and tech enthusiast with strong focus on building high-performance web and mobile apps. I love working on challenging problems and learning new technologies to create scalable and efficient software solutions. I work with cloud services like AWS and GCP and previously served as a Generative AI, Machine Learning and Full Stack development Research Assistant (twice) at Northeastern University in Boston, MA. I am also an ![AWS Certified Solutions Architect Associate](https://www.credly.com/earner/earned/badge/3979dbe7-7139-4b0e-aa31-6f75cc5c68f9) with 5 years of full-stack development experience. I've worked for Infosys, Accenture, UST's Blueconch Technologies.
 
 I've completed recently my <strong>Master of Science in Information Systems</strong>! 
 
