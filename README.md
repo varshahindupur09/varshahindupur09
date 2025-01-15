@@ -33,13 +33,19 @@ Database: SQL, NoSQL (MongoDB, DynamoDB, CosmosDB, Cassandra)
 
 I'm particularly interested in positions that combine technical challenges with impactful solutions, whether in engineering, architecture, or technical leadership roles. Let's connect to discuss how my skills align with your organization's needs! Looking for a full-time opportunity as <strong>Full Stack Engineer, Backend Engineer or Software Developer or Software Engineer</strong> roles!
 
+🤝🏼 Exploring collaboration opportunities on implementing 📣 research papers 📣 releated to Generative AI and Data Modeling.
 
-## [Resume!](https://drive.google.com/file/d/1Ilo4Zr_vADu9Ut2ojNREOSnDD6Wgb_G6/view?usp=sharing)
+
+<!-- [Resume!](https://drive.google.com/file/d/1Ilo4Zr_vADu9Ut2ojNREOSnDD6Wgb_G6/view?usp=sharing) -->
 
 ## 👩‍💻 About Me
-🔭 Currently working on multi-user chat applications and real-time systems using Flutter and Spring Boot. <br />
-I'm working as Full Stack Engineer, Research under a Professor in Northeastern University. I've build frontend, backend, security and cloud infrastructure from scratch for this project.
-🌱 I’m constantly learning new frameworks and tools like GraphQL, Docker, and Kubernetes. <br />
+
+<strong> Well versed in AWS Services:</strong> SES, Kendra, Kinesis (Firehose), IAM, Elastisearch, SQS, SNS, Redis, Memcache, Athena, RDS, Redshift, EC2, S3, EMR, ECR, EKS.
+<strong> Well versed in Azure Services:</strong> DevOps, Active Directory (Azure AD), Virtual Machines, Content Delivery Network (CDN), Data Factory, Kubernetes Service (AKS), Cosmos DB, DevOps, Functions, Container Storage, SQL Managed Instance, Cognitive Services
+<strong> Well versed in GCP Services:</strong> Compute Engine, Cloud Storage,  BigQuery, Google Kubernetes Engine, Cloud SQL
+
+🌱 I’m constantly learning new frameworks, tools, technologies like GraphQL, Vector Databases (Pinecone), GCP Vertex AI, Google Studio AI  <br />
+
 🛠️ Skilled in: <strong>Frontend Languages:</strong> HTML, CSS, React.js, Next.js, TypeScript  <br />
 🛠️ Skilled in: <strong>Frameworks:</strong> Shadcn, Tailwind CSS, Material UI, Framer Motion  <br />
 🛠️ Skilled in:  <strong>Databases: SQL/RDBMS:</strong> Oracle SQL, MySQL, PostgreSQL, <strong> NoSQL:</strong> MongoDB, AWS DynamoDB, Azure SQL, GCP BigQuery   <br />
@@ -48,7 +54,8 @@ I'm working as Full Stack Engineer, Research under a Professor in Northeastern U
 🛠️ Skilled in: Web Development, Cloud Technologies, Frontend, Backend Systems, Machine Learning and AI. <br />
 👯 Collaborating and building GenAI applications using Vector Databases, LLMs, TensorFlow, Langchain, Langsmith, AI Agents and MLOps pipelines. <br />
 💬 Looking to collaborate on open-source projects and full-stack development projects. <br />
-📚 Hands-on experience in using Airflow, Kafka, Hadoop and other data engineering tools. <br />
+📚 Hands-on experience in using Airflow, Kafka, Kinesis. <br />
+
 ⚡ **Fun fact:** I solve algorithm challenges on platforms like **LeetCode** and **HackerRank** with the help of some ☕. <br />
   You can check out this repo where I store the questions: <br />
   [PSA](https://github.com/varshahindupur09/Program-Structures-And-Algorithms).
