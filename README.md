@@ -11,7 +11,7 @@ I've completed recently my <strong>Master of Science in Information Systems</str
 
 🔬 Research Breakthroughs:
 * Data Communication:
-IEEE-published research on human body data transfer as a secure communication channel. [Link](https://ieeexplore.ieee.org/document/7562747/)
+IEEE-published research on human body data transfer as a secure communication channel. ![Link](https://ieeexplore.ieee.org/document/7562747/)
 
 * Spatial Intelligence:
 Developed spatial ability assessment platform (Patent and Research Paper publication pending)
@@ -36,7 +36,7 @@ I'm particularly interested in positions that combine technical challenges with 
 🤝🏼 Exploring collaboration opportunities on implementing 📣 research papers 📣 releated to Generative AI and Data Modeling.
 
 
-<!-- [Resume!](https://drive.google.com/file/d/1Ilo4Zr_vADu9Ut2ojNREOSnDD6Wgb_G6/view?usp=sharing) -->
+<!-- [Resume!]() -->
 
 ## 👩‍💻 About Me
 
@@ -54,7 +54,8 @@ I'm particularly interested in positions that combine technical challenges with 
 🛠️ Skilled in: Web Development, Cloud Technologies, Frontend, Backend Systems, Machine Learning and AI. <br />
 👯 Collaborating and building GenAI applications using Vector Databases, LLMs, TensorFlow, Langchain, Langsmith, AI Agents and MLOps pipelines. <br />
 💬 Looking to collaborate on open-source projects and full-stack development projects. <br />
-📚 Hands-on experience in using Airflow, Kafka, Kinesis. <br />
+📚 Hands-on experience in using Airflow, Kafka, Kinesis, RabbitMQ, WebSockets, WebRTC <br />
+
 
 ⚡ **Fun fact:** I solve algorithm challenges on platforms like **LeetCode** and **HackerRank** with the help of some ☕. <br />
   You can check out this repo where I store the questions: <br />
@@ -70,55 +71,41 @@ Twitter: A complete diagnosis and process and architecture [diagram:](https://gi
 🌐 Portfolio: https://varshahindupur.com<br />
 🗣️ | Copy & Paste
 
-## Currently Collaborating on:
+## Current Collaborations/ Individual Projects:
 💬[Creating Ride App From Scratch:](https://github.com/varshahindupur09/uber-ride-api) This project seeks to develop an open-source, customizable ride-hailing simulation platform similar to Uber/Lyft. The objective is to offer a tool for researchers, students, and industry professionals to experiment with ride-hailing algorithms, study system dynamics, and drive innovation in urban mobility.
 
-## 📂 GenAI Project
+💬 Patient Triage (Stellar Labs)
 
-<strong>Topic:</strong> Software Development, AI<br />
-🛠️ <strong>AI-Powered Anomaly Detection System:</strong> Developed an AI-driven firewall using TensorFlow for real-time anomaly detection, enhancing the security of AI interactions.
-Skills: Generative AI <br />
-[LinkToRepo](https://github.com/varshahindupur09/anomali-detection-gen-ai.git)<br />
+[Medicine Delivery App(MediSwift)](https://github.com/varshahindupur09/Medicine-delivery-app-kubernetes-deployment): 
+Built a secure, scalable e-commerce platform for medicine delivery with cloud-native architecture and containerized microservices deployment.
+Tech Stack:Frontend: React, TypeScript, Tailwind CSS, Backend: Node.js, FastAPI, Infrastructure: AWS EKS (Kubernetes), Docker Containers with EMR, API Gateway, SSL Security Implementation, Stripe APIs Integrated (Payments)
+Status: Active development with upcoming ML model integration and feature enhancements
 
-<strong>Topic:</strong> Backend Engineering, Software Development<br />
-🛠️ <strong>FoodFood Restaurant Web App & Chatbot</strong><br />
+
+## Generative AI Projects (Key Projects)
+
+[<strong>Scalable Real-Time Sensitive Data Protection System</strong>](https://github.com/varshahindupur09/Sensitive-Data-Shield-AI-Anomaly-Detection-Platform)
+Engineered a high-performance system utilizing TensorFlow's TFAutoModelForTokenClassification for real-time detection and prevention of sensitive data exposure in user interactions and AI-generated responses. Built with GKE, Helm, FastAPI, Go, React, Grafana, and PostgreSQL for scalability, security, and compliance in AI-driven environments.
+
+[<strong>The Weather Explorer: Interactive Weather Data Platform</strong>](https://github.com/varshahindupur09/Weather-Explorer-Interactive-Weather-Data-Visualization)
+Developed a scalable, real-time weather data platform with an ETL pipeline (Airflow, Docker) to process and validate data from SEVIR, GOES, and NEXRAD (AWS S3). Built a secure, interactive visualization tool (Streamlit, FastAPI) for exploring weather trends by year, hour, station, and day, with user authentication for controlled access. Powered by Python, AWS, Airflow, Docker, and FastAPI for reliability and performance.
+
+[<strong>FoodFood Restaurant Web App & Chatbot</strong>](https://github.com/varshahindupur09/AI-Chatbot-Prompt-Engineering-with-NLP)
 Created a chatbot using Ollama Gemma:2B for menu assistance and order placement. Leveraged Snowflake to analyze top-selling food items, sales trends, and identify underperforming categories for strategic promotions.<br />
 Skills: Snowflake · Gemma LLM · Vector Database · AI Agents<br />
-[LinkToRepo](https://github.com/varshahindupur09/AI-Chatbot-Prompt-Engineering-with-NLP)<br />
 [YouTubeDemo](https://youtu.be/hNW7EwDtSws)<br />
 
-🛠️ <strong>Meeting Intelligence</strong><br />
-Enhanced the meeting intelligence application previously created using Gen AI<br />
-Skills: Gemma LLM · Vector Database (PineCone) · Airflow · OpenAI · LangChain · MongoDB  <br />
-[LinkToRepo](https://github.com/varshahindupur09/MeetingIntelligencePromptEngineering)<br />
-[YouTubeDemo](https://youtu.be/VaEv3H-WppY)<br />
+## Software Development, Data Science, Machine Learning, Data Engineering and MLOps Projects
 
-## 📂 Notable Projects
+[<strong>Lung and Colon Cancer Detection with HPC (Discovery):</strong>](https://github.com/varshahindupur09/Cancer-Detection-with-High-Performance-Computing-HPC)
+Developed a high-performance cancer detection system leveraging CUDA-enabled GPU acceleration and parallel processing for lung and colon cancer prediction. Optimized with Dask, DDP, Model Parallelism, and AMP to enhance scalability, convergence, and efficiency across serial, distributed, and hybrid execution modes.
 
-<strong>Topic:</strong> Backend Engineering, Data Engineering, Data Science, Data Visualization, Data Analysis:<br />
-🛠️ <strong>AirCast:</strong> An AI-powered air quality forecasting app built using LSTM, streaming data, and AWS S3. Backend services built for Microservices architecture were to connection to database using SQLAlchemy (ORM), adhoc and batch data processing, APIs (syncronous RESTful), and deployment scripts. [LinkToRepo](https://github.com/varshahindupur09/AirCast-Predicting-Air-Quality-Using-Machine-Learning.git) <br />
-
-
-<strong>Topic:</strong> Mobile Application Development, Event Driven Architecture:<br />
-🛠️ <strong>ChatWith:</strong> A SaaS-based chatbot mobile app utilizing Flutter, Spring Boot, WebSockets, and Redis. [LinkToRepo](https://github.com/varshahindupur09/chatapp_for_communication.git) <br />
-
-<strong>Topic:</strong> Cloud Computing, Data Extraction, Data Augumentation:<br />
-🛠️ <strong>Data Exploration Tool:</strong> AWS-based meteorological data tool that integrates GOES, NEXRAD satellite data for metadata retrieval and analysis. [LinkToRepo](https://github.com/varshahindupur09/Weather-Explorer-Interactive-Weather-Data-Visualization.git)<br />
-
-<strong>Topic:</strong> Healthcare, Machine Learning, High Performance Computing Cluster:<br />
-🛠️ <strong>Lung and Colon Cancer Prediction:</strong> Harnessed the power of parallelism and GPU acceleration using CUDA to achieve faster convergence and improved model performance. [LinkToRepo](https://github.com/varshahindupur09/Cancer-Detection-with-High-Performance-Computing-HPC.git)<br />
-
-<strong>Topic:</strong> Two Web Application Development, Event Driven Architecture<br />
-🛠️ <strong>Real-Time Social Media Platform (Microservices):</strong> Developed with Python (Django and Flask), RabbitMQ, and Docker, this platform enables instant interactions between users while also tracking admin posts. [LinkToRepo](https://github.com/varshahindupur09/Real_Time_Event_Driven_Communication.git)<br />
+[<strong>AirCast: An AI-powered air quality forecasting app</strong>(https://github.com/varshahindupur09/AirCast-Predicting-Air-Quality-Using-Machine-Learning)
+ Developed an app to predict air quality using machine learning algorithms. 
+The system leveraged streaming data stored in AWS S3, which was preprocessed in PostgreSQL. LSTM models were used to forecast air quality, achieving an RMSE of 0.8. 
+The project was designed to assist in predicting hazardous air conditions for different geographical regions.
+It is built using LSTM, streaming data, and AWS S3. Backend services built for Microservices architecture were to connection to database using SQLAlchemy (ORM), adhoc and batch data processing, APIs (syncronous RESTful), and deployment scripts.
+Built UI in using React, Typescript, and Tailwind CSS.
 
 ## Medium Articles
 [click to view](https://medium.com/@varsha.hindupur)
-
-## 💡Technical Skills
-⚡ Languages: Python, JavaScript, TypeScript, HTML/CSS, React, Node.js, Flutter, Unix Bash <br />
-⚡ Databases: MongoDB, PostgreSQL, MySQL, DynamoDB, Redis <br />
-⚡ AI/ML: TensorFlow, Keras, Langchain, MLOps pipelines, LLMs <br />
-⚡ Cloud Services: AWS, Azure, GCP, Docker, Kubernetes <br />
-⚡ DevOps Tools: Jenkins, Maven, Nginx, Airflow, GitHub Actions, CI/CD pipelines <br />
-⚡ Frameworks: Flask, Spring Boot, Django, FastAPI <br />
-⚡ Other Tools: Postman, Snowflake, Elasticsearch <br />
