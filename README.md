@@ -5,7 +5,34 @@
 
 ✨ Welcome to my GitHub profile! ✨ 
 
-I'm a passionate software developer and tech enthusiast with a focus on building high-performance applications in full-stack development. I love working on challenging problems and learning new technologies to create scalable and efficient software solutions. I've completed recently my <strong>Master of Science in Information Systems</strong>! Looking for a full-time opportunity as Full Stack Engineer, Backend Engineer or Software Developer!
+I'm a Full Stack Software Engineer and tech enthusiast with strong focus on building high-performance web and mobile apps. I love working on challenging problems and learning new technologies to create scalable and efficient software solutions. I work with cloud services like AWS and GCP and previously served as a Generative AI, Machine Learning and Full Stack development Research Assistant (twice) at Northeastern University in Boston, MA. I am also an AWS Certified Solutions Architect Associate with 5 years of full-stack development experience. I've worked for Infosys, Accenture, UST's Blueconch Technologies.
+
+I've completed recently my <strong>Master of Science in Information Systems</strong>! 
+
+🔬 Research Breakthroughs:
+* Data Communication:
+IEEE-published research on human body data transfer as a secure communication channel
+
+* Spatial Intelligence:
+Developed spatial ability assessment platform (Patent and Research Paper publication pending)
+Created standardized evaluation tools
+
+* Luxury Brand Analysis:
+Built data visualization tool analyzing 50+ luxury brands' social media presence.
+Optimized processing with HPC using DDP, Dask, and AMP.
+Contributed to marketing academia through data-driven brand-celebrity partnership analysis.
+
+🔧 Technical Leadership: Architecting cloud-native applications and driving system modernization
+🚀 Innovation: Implementing AI/ML solutions and optimizing complex workflows
+📈 Scalability: Designing high-performance systems supporting millions of users
+Core Skills:
+Full Stack Development: React, Next.js, Node.js, Python, Java
+Cloud & DevOps: AWS (Certified), Azure, GCP, Terraform, CI/CD
+Data & AI: Machine Learning, Real-time Analytics, Data Engineering
+Database: SQL, NoSQL (MongoDB, DynamoDB, CosmosDB, Cassandra)
+
+I'm particularly interested in positions that combine technical challenges with impactful solutions, whether in engineering, architecture, or technical leadership roles. Let's connect to discuss how my skills align with your organization's needs! Looking for a full-time opportunity as <strong>Full Stack Engineer, Backend Engineer or Software Developer or Software Engineer</strong> roles!
+
 
 ## [Resume!](https://drive.google.com/file/d/1Ilo4Zr_vADu9Ut2ojNREOSnDD6Wgb_G6/view?usp=sharing)
 
