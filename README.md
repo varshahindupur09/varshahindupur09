@@ -1,4 +1,5 @@
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=varshahindupur09.varshahindupur09)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=varshahindupur09.varshahindupur09)
+
 
 # Hi there, I'm Varsha Seshashayee Hindupur 👋
 
