@@ -11,7 +11,7 @@ I've completed recently my <strong>Master of Science in Information Systems</str
 
 🔬 Research Breakthroughs:
 * Data Communication:
-IEEE-published research on human body data transfer as a secure communication channel
+IEEE-published research on human body data transfer as a secure communication channel. ![Link](https://ieeexplore.ieee.org/document/7562747/)
 
 * Spatial Intelligence:
 Developed spatial ability assessment platform (Patent and Research Paper publication pending)
