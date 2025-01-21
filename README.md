@@ -35,7 +35,6 @@ I'm particularly interested in positions that combine technical challenges with 
 
 🤝🏼 Exploring collaboration opportunities on implementing 📣 research papers 📣 releated to Generative AI and Data Modeling.
 
-
 <!-- [Resume!]() -->
 
 # System Design 
@@ -99,25 +98,6 @@ These are my contributions into writing medium articles.
 [Exploring Power BI’s Analytical Prowess: Unleash Your Data’s Secrets](https://medium.com/@varsha.hindupur/power-bi-tricks-tips-fbec7652d652)
 
 Read, Share & Give shoutout if you like my contributions.
-
-## 👩‍💻 About Me
-
-<strong> Well versed in AWS Services:</strong> SES, Kendra, Kinesis (Firehose), IAM, Elastisearch, SQS, SNS, Redis, Memcache, Athena, RDS, Redshift, EC2, S3, EMR, ECR, EKS.
-<strong> Well versed in Azure Services:</strong> DevOps, Active Directory (Azure AD), Virtual Machines, Content Delivery Network (CDN), Data Factory, Kubernetes Service (AKS), Cosmos DB, DevOps, Functions, Container Storage, SQL Managed Instance, Cognitive Services
-<strong> Well versed in GCP Services:</strong> Compute Engine, Cloud Storage,  BigQuery, Google Kubernetes Engine, Cloud SQL
-
-🌱 I’m constantly learning new frameworks, tools, technologies like GraphQL, Vector Databases (Pinecone), GCP Vertex AI, Google Studio AI  <br />
-
-🛠️ Skilled in: <strong>Frontend Languages:</strong> HTML, CSS, React.js, Next.js, TypeScript  <br />
-🛠️ Skilled in: <strong>Frameworks:</strong> Shadcn, Tailwind CSS, Material UI, Framer Motion  <br />
-🛠️ Skilled in:  <strong>Databases: SQL/RDBMS:</strong> Oracle SQL, MySQL, PostgreSQL, <strong> NoSQL:</strong> MongoDB, AWS DynamoDB, Azure SQL, GCP BigQuery   <br />
-🛠️ Skilled in:  <strong>Backend Technologies:</strong> Nginx (Load Balancer), Redis (Cache), REST APIs, Asyncronous APIs, Databases (ORM) , Apache Kafka (streaming data), Airflow (data processing) <br />
-🛠️ Skilled in: Skilled in: <strong>Backend languages:</strong> SpringBoot, Node.js, Mongoose.js, Express.js, Python (Django), FAST API, Flask API <br />
-🛠️ Skilled in: Web Development, Cloud Technologies, Frontend, Backend Systems, Machine Learning and AI. <br />
-👯 Collaborating and building GenAI applications using Vector Databases, LLMs, TensorFlow, Langchain, Langsmith, AI Agents and MLOps pipelines. <br />
-💬 Looking to collaborate on open-source projects and full-stack development projects. <br />
-📚 Hands-on experience in using Airflow, Kafka, Kinesis, RabbitMQ, WebSockets, WebRTC <br />
-
 
 ⚡ **Fun fact:** I solve algorithm challenges on platforms like **LeetCode** and **HackerRank** with the help of some ☕. <br />
   You can check out this repo where I store the questions: <br />
