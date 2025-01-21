@@ -77,6 +77,7 @@ I'm particularly interested in positions that combine technical challenges with 
 
 # System Design 
 Twitter: A complete system, process and architecture [diagram:](https://github.com/varshahindupur09/system_design/blob/main/TwitterSystemDesign.md)
+<br />
 RA Survey Platform: A complete architecture, showcasing AWS services used and backend architecture! [diagram:](https://private-user-images.githubusercontent.com/114629181/388292863-9dded5ee-6590-4c74-9065-40d63824d442.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzc0OTU1MTgsIm5iZiI6MTczNzQ5NTIxOCwicGF0aCI6Ii8xMTQ2MjkxODEvMzg4MjkyODYzLTlkZGVkNWVlLTY1OTAtNGM3NC05MDY1LTQwZDYzODI0ZDQ0Mi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMTIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDEyMVQyMTMzMzhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03ZmM4MGU4YzJjMjY0MTcwZWNjNzRmZGY1MWM3ZGZhNzg0Y2I3MmVlZjUzMWEyZjAyZTFmNTg5ZmI4NWYwZDdkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.prZGMVi7_Em971HBKsYagPT63VTAG7FjKN4jaTlVIJg)
 
 ## 📬 Let's Connect! 📧 How to reach me:
