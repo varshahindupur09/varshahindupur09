@@ -86,6 +86,20 @@ Built UI in using React, Typescript, and Tailwind CSS.
 ## Medium Articles
 [click to view](https://medium.com/@varsha.hindupur)
 
+These are my contributions into writing medium articles.
+
+[From Concept to Deployment: Leveraging AWS for a Large-Scale Survey Application](https://medium.com/@varsha.hindupur/from-concept-to-deployment-leveraging-aws-for-a-large-scale-survey-application-349eed74ec3f)
+
+[Summarizing lecture from Data+AI World Tour by Databricks: Delta Live Tables A to Z: Best Practices for Modern Data Pipelines](https://medium.com/@varsha.hindupur/summarizing-lecture-from-data-ai-world-tour-by-databricks-delta-live-tables-a-to-z-best-practices-479fc704fbd2)
+
+[LeetCode & HackerRank Adventures: Conquering Advanced SQL and Windows Functions for Database Mastery](https://medium.com/@varsha.hindupur/leetcode-hackerrank-adventures-conquering-advanced-sql-and-windows-functions-for-database-8c3b9e205038)
+
+[Bringing Your Streamlit Web App to Life on Azure App Services](https://medium.com/@varsha.hindupur/bringing-your-streamlit-web-app-to-life-on-azure-app-services-a522bb01e875)
+
+[Exploring Power BI’s Analytical Prowess: Unleash Your Data’s Secrets](https://medium.com/@varsha.hindupur/power-bi-tricks-tips-fbec7652d652)
+
+Read, Share & Give shoutout if you like my contributions.
+
 ## 👩‍💻 About Me
 
 <strong> Well versed in AWS Services:</strong> SES, Kendra, Kinesis (Firehose), IAM, Elastisearch, SQS, SNS, Redis, Memcache, Athena, RDS, Redshift, EC2, S3, EMR, ECR, EKS.
