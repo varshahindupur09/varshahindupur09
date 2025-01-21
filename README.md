@@ -12,6 +12,41 @@ I've completed recently my <strong>Master of Science in Information Systems</str
 ## Skills:
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
+## ⚡ Languages and Technologies
+
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?logo=react%20query&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?logo=socket.io&badgeColor=010101)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
+![Threejs](https://img.shields.io/badge/threejs-black?logo=three.js&logoColor=white)
+<!--![Zod](https://img.shields.io/badge/zod-%233068b7.svg?logo=zod&logoColor=white) -->
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?logo=swagger&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Packer](https://img.shields.io/badge/packer-%23E7EEF0.svg?logo=packer&logoColor=%2302A8EF)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?logo=openai&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+
 🔬 Research Breakthroughs:
 * Data Communication:
 IEEE-published research on human body data transfer as a secure communication channel. ![Link](https://ieeexplore.ieee.org/document/7562747/)
