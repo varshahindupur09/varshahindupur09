@@ -9,6 +9,9 @@ I'm a Full Stack Software Engineer and tech enthusiast with strong focus on buil
 
 I've completed recently my <strong>Master of Science in Information Systems</strong>! 
 
+## Skills:
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+
 🔬 Research Breakthroughs:
 * Data Communication:
 IEEE-published research on human body data transfer as a secure communication channel. ![Link](https://ieeexplore.ieee.org/document/7562747/)
