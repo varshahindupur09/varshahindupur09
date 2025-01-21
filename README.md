@@ -96,6 +96,8 @@ Built a secure, scalable e-commerce platform for medicine delivery with cloud-na
 Tech Stack:Frontend: React, TypeScript, Tailwind CSS, Backend: Node.js, FastAPI, Infrastructure: AWS EKS (Kubernetes), Docker Containers with EMR, API Gateway, SSL Security Implementation, Stripe APIs Integrated (Payments)
 Status: Active development with upcoming ML model integration and feature enhancements
 
+[Mini Neural Network Project](https://github.com/varshahindupur09/Mini-Projects-Neural-Networks)
+
 
 ## Generative AI Projects (Key Projects)
 
