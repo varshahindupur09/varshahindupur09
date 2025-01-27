@@ -89,7 +89,7 @@ RA Survey Platform: A complete architecture, showcasing AWS services used and ba
 ## Current Collaborations/ Individual Projects:
 💬[Creating Ride App From Scratch:](https://github.com/varshahindupur09/uber-ride-api) This project seeks to develop an open-source, customizable ride-hailing simulation platform similar to Uber/Lyft. The objective is to offer a tool for researchers, students, and industry professionals to experiment with ride-hailing algorithms, study system dynamics, and drive innovation in urban mobility.
 
-💬 Patient Triage (Stellar Labs)
+💬 [Patient Triage (Stellar Labs)](https://github.com/varshahindupur09/patient_triage_gen_ai)
 
 [Medicine Delivery App(MediSwift)](https://github.com/varshahindupur09/Medicine-delivery-app-kubernetes-deployment): 
 Built a secure, scalable e-commerce platform for medicine delivery with cloud-native architecture and containerized microservices deployment.
