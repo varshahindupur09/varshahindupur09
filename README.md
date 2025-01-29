@@ -63,6 +63,35 @@
 
 ## 🏆 Featured Projects
 
+---
+
+### 💊 **MediSwift** - Cloud-Native Medicine Delivery
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat&logo=stripe&logoColor=white)
+
+Enterprise-grade pharmacy platform handling 5k+ daily transactions:  
+**Core Architecture**:
+- 🚀 Kubernetes-powered microservices (AWS EKS)
+- 🔒 Zero-trust security with API Gateway & SSL encryption
+- 💳 Stripe integration for PCI-DSS compliant payments
+- 📦 Dockerized services with Helm chart management
+
+**Key Features**:
+- Real-time inventory tracking across 100+ pharmacies
+- Prescription validation workflow engine
+- Automated delivery scheduling system
+- Multi-tenant dashboard for pharmacy partners
+
+**Next Evolution**:
+- 🧠 AI-powered drug interaction checker (in development)
+- 🚚 Live GPS tracking with Mapbox integration
+- 💊 Smart dosage reminders via Twilio SMS
+- 📊 Analytics pipeline with AWS EMR
+
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/varshahindupur09/Medicine-delivery-app-kubernetes-deployment)
+
 ### 🤖 **Sensitive Data Shield** - AI Anomaly Detection
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
