@@ -121,6 +121,28 @@ Intelligent dining platform revolutionizing restaurant operations:
 
 ---
 
+### 🫁 **Lung & Colon Cancer Detection** - HPC Diagnostics
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
+![Dask](https://img.shields.io/badge/Dask-FF6F00?style=flat&logo=dask&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+
+Advanced cancer prediction system achieving 98.7% accuracy through:  
+**HPC Innovations**:
+- CUDA-accelerated GPU processing for 15x speedup
+- Hybrid Dask/DDP parallel processing pipelines
+- AMP-optimized model training with FP16 precision
+- Multi-GPU model parallelism architecture
+
+**Optimization Framework**:
+- Serial vs. distributed execution benchmarks
+- Dynamic resource allocation strategies
+- Cross-execution mode convergence analysis
+
+[![View Repo](https://img.shields.io/badge/View_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://github.com/varshahindupur09/Cancer-Detection-with-High-Performance-Computing-HPC)
+
+P.S. Presented this project in Labs for Health and received commendable feedback!
+---
+
 ## 📚 Latest Articles
 
 [![Medium](https://img.shields.io/badge/From_Concept_to_Deployment-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@varsha.hindupur/from-concept-to-deployment-leveraging-aws-for-a-large-scale-survey-application-349eed74ec3f)  
