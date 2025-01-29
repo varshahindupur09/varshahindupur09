@@ -87,6 +87,8 @@ Machine learning platform predicting air quality with 0.8 RMSE
 
 <!--[![Demo](https://img.shields.io/badge/View_Demo-FF6F00?style=for-the-badge)](https://youtu.be/hNW7EwDtSws)-->
 
+---
+
 ### 🌦️ **The Weather Explorer** - Interactive Data Platform
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat&logo=amazon-s3&logoColor=white)
