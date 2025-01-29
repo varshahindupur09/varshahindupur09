@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/varsha-hindupur/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:hindupur.v@northeastern.edu">
+  <a href="mailto:varshashindupur@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
@@ -71,6 +71,8 @@
 Real-time sensitive data protection system using TFAutoModelForTokenClassification  
 **Features**: GKE deployment • 10k+ RPS handling • Grafana monitoring
 
+[![View Repo](https://img.shields.io/badge/View_Demo-FF6F00?style=for-the-badge)](https://github.com/varshahindupur09/Sensitive-Data-Shield-AI-Anomaly-Detection-Platform)
+
 ---
 
 ### 🌦️ **AirCast** - Air Quality Prediction
@@ -81,7 +83,39 @@ Real-time sensitive data protection system using TFAutoModelForTokenClassificati
 Machine learning platform predicting air quality with 0.8 RMSE  
 **Tech**: Real-time data pipelines • Microservices architecture • React dashboard
 
-[![Demo](https://img.shields.io/badge/View_Demo-FF6F00?style=for-the-badge)](https://youtu.be/hNW7EwDtSws)
+[![View Repo](https://img.shields.io/badge/View_Demo-FF6F00?style=for-the-badge)](https://github.com/varshahindupur09/AirCast-Predicting-Air-Quality-Using-Machine-Learning)
+
+<!--[![Demo](https://img.shields.io/badge/View_Demo-FF6F00?style=for-the-badge)](https://youtu.be/hNW7EwDtSws)-->
+
+### 🌦️ **The Weather Explorer** - Interactive Data Platform
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat&logo=amazon-s3&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+
+Scalable weather analytics platform processing 1TB+ of SEVIR/GOES/NEXRAD data  
+**Tech Stack**:  
+- Real-time ETL pipelines with Airflow & Docker
+- Interactive Streamlit dashboards with JWT authentication
+- Multi-source data validation framework
+- AWS S3 optimized storage architecture
+
+- [![View Repo](https://img.shields.io/badge/View_Demo-FF6F00?style=for-the-badge)](https://github.com/varshahindupur09/Weather-Explorer-Interactive-Weather-Data-Visualization)
+
+---
+
+### 🍔 **FoodFood Restaurant** - AI-Powered Dining Experience
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+![Gemma](https://img.shields.io/badge/Gemma_LLM-FF6F00?style=flat&logo=huggingface&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-000000?style=flat)
+
+Intelligent dining platform revolutionizing restaurant operations:  
+- Ollama-powered Gemma:2B chatbot for natural language ordering
+- Snowflake analytics engine processing 10M+ transactions
+- Vector DB for personalized menu recommendations
+- Real-time sales trend analysis and inventory forecasting
+
+[![View Repo](https://img.shields.io/badge/View_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://github.com/varshahindupur09/AI-Chatbot-Prompt-Engineering-with-NLP)
+[![YouTube Demo](https://img.shields.io/badge/View_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/hNW7EwDtSws)
 
 ---
 
