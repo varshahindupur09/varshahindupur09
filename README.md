@@ -63,7 +63,7 @@
 
 ## 🏆 Featured Projects
 
-# 🏥 **Patient Triage Gen AI**  
+### 🏥 **Patient Triage Gen AI**  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-00BFFF?style=flat&logo=groq&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF4500?style=flat&logo=chromadb&logoColor=white)
@@ -80,7 +80,7 @@
 
 🛠️ **Tech Stack**: **Backend**: FastAPI, **AI Model**: Groq (LLaMA 3.2-90B Vision Preview), **Vector Database**: ChromaDB, **Embeddings**: Sentence Transformers (`all-MiniLM-L6-v2`), **Console Interface**: Rich (for formatted output)
 
-![image](https://github.com/user-attachments/assets/d7f55fb8-723e-49ae-b2a0-5a164a785822)
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)]https://github.com/varshahindupur09/patient_triage_gen_ai/blob/main/README.md)
   
 ---
 
