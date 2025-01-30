@@ -80,7 +80,7 @@
 
 🛠️ **Tech Stack**: **Backend**: FastAPI, **AI Model**: Groq (LLaMA 3.2-90B Vision Preview), **Vector Database**: ChromaDB, **Embeddings**: Sentence Transformers (`all-MiniLM-L6-v2`), **Console Interface**: Rich (for formatted output)
 
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)]https://github.com/varshahindupur09/patient_triage_gen_ai/blob/main/README.md)
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/varshahindupur09/patient_triage_gen_ai/blob/main/README.md)
   
 ---
 
