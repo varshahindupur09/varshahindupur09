@@ -85,6 +85,8 @@ AI-driven dining platform with Gemma:2B chatbot for ordering, Snowflake analytic
 
 ### 🫁 [Lung & Colon Cancer Detection - HPC Diagnostics](https://github.com/varshahindupur09/Cancer-Detection-with-High-Performance-Computing-HPC)  
 CUDA-accelerated cancer prediction system achieving 98.7% accuracy with hybrid Dask/DDP pipelines and multi-GPU parallelism.
+
+
 ---
 
 ## 📚 Latest Articles
