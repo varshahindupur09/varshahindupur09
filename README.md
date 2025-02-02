@@ -63,132 +63,28 @@
 
 ## 🏆 Featured Projects
 
-### 🏥 **Patient Triage Gen AI**  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-00BFFF?style=flat&logo=groq&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF4500?style=flat&logo=chromadb&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-000000?style=flat&logo=rag&logoColor=white)
+# Projects
 
-**Patient Triage Gen AI** is an intelligent application designed to prioritize patients based on the severity of their medical conditions. It uses a **Retrieval-Augmented Generation (RAG)** architecture powered by **Groq** and **ChromaDB** to provide accurate and context-aware triage recommendations.  
+### 🏥 [Patient Triage Gen AI](https://github.com/varshahindupur09/patient_triage_gen_ai)  
+AI-powered patient prioritization using RAG architecture with Groq and ChromaDB. Assigns triage levels based on severity with real-time processing.
 
-## 🚀 **Key Features**
-- **Patient Triage Levels**: Assigns one of 5 triage levels based on severity: Level 1: Resuscitation (Immediate life-threatening condition), Level 2: Emergency (Potentially life-threatening condition), Level 3: Urgent (Serious but not life-threatening condition), Level 4: Semi-Urgent (Less serious condition), Level 5: Non-Urgent (Minor or stable condition)
-- **Knowledge Base**: Uses a comprehensive database of medical guidelines and protocols for triage.
-- **RAG Architecture**: Combines retrieval of relevant guidelines with generative AI for detailed explanations.
-- **Console-Based Interface**: Provides a user-friendly console interface for input and output.
-- **Real-Time Processing**: Generates triage reports in real-time using Groq's high-performance LLM.
+### 💊 [MediSwift - Cloud-Native Medicine Delivery](https://github.com/varshahindupur09/Medicine-delivery-app-kubernetes-deployment)  
+Kubernetes-powered pharmacy platform handling 5k+ daily transactions with Stripe payments, real-time inventory tracking, and automated delivery scheduling.
 
-🛠️ **Tech Stack**: **Backend**: FastAPI, **AI Model**: Groq (LLaMA 3.2-90B Vision Preview), **Vector Database**: ChromaDB, **Embeddings**: Sentence Transformers (`all-MiniLM-L6-v2`), **Console Interface**: Rich (for formatted output)
+### 🤖 [Sensitive Data Shield - AI Anomaly Detection](https://github.com/varshahindupur09/Sensitive-Data-Shield-AI-Anomaly-Detection-Platform)  
+Real-time sensitive data protection using TFAutoModelForTokenClassification, deployed on GKE with Grafana monitoring.
 
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/varshahindupur09/patient_triage_gen_ai/blob/main/README.md)
-  
----
+### 🌦️ [AirCast - Air Quality Prediction](https://github.com/varshahindupur09/AirCast-Predicting-Air-Quality-Using-Machine-Learning)  
+LSTM-based platform predicting air quality with 0.8 RMSE, featuring real-time data pipelines and a React dashboard.
 
-### 💊 **MediSwift** - Cloud-Native Medicine Delivery
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat&logo=stripe&logoColor=white)
+### 🌦️ [The Weather Explorer - Interactive Data Platform](https://github.com/varshahindupur09/Weather-Explorer-Interactive-Weather-Data-Visualization)  
+Scalable weather analytics platform processing 1TB+ of SEVIR/GOES/NEXRAD data with Airflow ETL pipelines and Streamlit dashboards.
 
-Enterprise-grade pharmacy platform handling 5k+ daily transactions:  
-**Core Architecture**:
-- 🚀 Kubernetes-powered microservices (AWS EKS)
-- 🔒 Zero-trust security with API Gateway & SSL encryption
-- 💳 Stripe integration for PCI-DSS compliant payments
-- 📦 Dockerized services with Helm chart management
+### 🍔 [FoodFood Restaurant - AI-Powered Dining Experience](https://github.com/varshahindupur09/AI-Chatbot-Prompt-Engineering-with-NLP)  
+AI-driven dining platform with Gemma:2B chatbot for ordering, Snowflake analytics, and personalized menu recommendations.
 
-**Key Features**:
-- Real-time inventory tracking across 100+ pharmacies
-- Prescription validation workflow engine
-- Automated delivery scheduling system
-- Multi-tenant dashboard for pharmacy partners
-
-**Next Evolution**:
-- 🧠 AI-powered drug interaction checker (in development)
-- 🚚 Live GPS tracking with Mapbox integration
-- 💊 Smart dosage reminders via Twilio SMS
-- 📊 Analytics pipeline with AWS EMR
-
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/varshahindupur09/Medicine-delivery-app-kubernetes-deployment)
-
-### 🤖 **Sensitive Data Shield** - AI Anomaly Detection
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-
-Real-time sensitive data protection system using TFAutoModelForTokenClassification  
-**Features**: GKE deployment • 10k+ RPS handling • Grafana monitoring
-
-[![View Repo](https://img.shields.io/badge/View_Demo-FF6F00?style=for-the-badge)](https://github.com/varshahindupur09/Sensitive-Data-Shield-AI-Anomaly-Detection-Platform)
-
----
-
-### 🌦️ **AirCast** - Air Quality Prediction
-![LSTM](https://img.shields.io/badge/LSTM-FF6F00?style=flat&logo=keras&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_S3-569A31?style=flat&logo=amazon-s3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-
-Machine learning platform predicting air quality with 0.8 RMSE  
-**Tech**: Real-time data pipelines • Microservices architecture • React dashboard
-
-[![View Repo](https://img.shields.io/badge/View_Demo-FF6F00?style=for-the-badge)](https://github.com/varshahindupur09/AirCast-Predicting-Air-Quality-Using-Machine-Learning)
-
-<!--[![Demo](https://img.shields.io/badge/View_Demo-FF6F00?style=for-the-badge)](https://youtu.be/hNW7EwDtSws)-->
-
----
-
-### 🌦️ **The Weather Explorer** - Interactive Data Platform
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat&logo=amazon-s3&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-
-Scalable weather analytics platform processing 1TB+ of SEVIR/GOES/NEXRAD data  
-**Tech Stack**:  
-- Real-time ETL pipelines with Airflow & Docker
-- Interactive Streamlit dashboards with JWT authentication
-- Multi-source data validation framework
-- AWS S3 optimized storage architecture
-
-- [![View Repo](https://img.shields.io/badge/View_Demo-FF6F00?style=for-the-badge)](https://github.com/varshahindupur09/Weather-Explorer-Interactive-Weather-Data-Visualization)
-
----
-
-### 🍔 **FoodFood Restaurant** - AI-Powered Dining Experience
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
-![Gemma](https://img.shields.io/badge/Gemma_LLM-FF6F00?style=flat&logo=huggingface&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI_Agents-000000?style=flat)
-
-Intelligent dining platform revolutionizing restaurant operations:  
-- Ollama-powered Gemma:2B chatbot for natural language ordering
-- Snowflake analytics engine processing 10M+ transactions
-- Vector DB for personalized menu recommendations
-- Real-time sales trend analysis and inventory forecasting
-
-[![View Repo](https://img.shields.io/badge/View_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://github.com/varshahindupur09/AI-Chatbot-Prompt-Engineering-with-NLP)
-[![YouTube Demo](https://img.shields.io/badge/View_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/hNW7EwDtSws)
-
----
-
-### 🫁 **Lung & Colon Cancer Detection** - HPC Diagnostics
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
-![Dask](https://img.shields.io/badge/Dask-FF6F00?style=flat&logo=dask&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-
-Advanced cancer prediction system achieving 98.7% accuracy through:  
-**HPC Innovations**:
-- CUDA-accelerated GPU processing for 15x speedup
-- Hybrid Dask/DDP parallel processing pipelines
-- AMP-optimized model training with FP16 precision
-- Multi-GPU model parallelism architecture
-
-**Optimization Framework**:
-- Serial vs. distributed execution benchmarks
-- Dynamic resource allocation strategies
-- Cross-execution mode convergence analysis
-
-[![View Repo](https://img.shields.io/badge/View_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://github.com/varshahindupur09/Cancer-Detection-with-High-Performance-Computing-HPC)
-
-P.S. Presented this project in Labs for Health and received commendable feedback!
+### 🫁 [Lung & Colon Cancer Detection - HPC Diagnostics](https://github.com/varshahindupur09/Cancer-Detection-with-High-Performance-Computing-HPC)  
+CUDA-accelerated cancer prediction system achieving 98.7% accuracy with hybrid Dask/DDP pipelines and multi-GPU parallelism.
 ---
 
 ## 📚 Latest Articles
