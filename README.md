@@ -61,11 +61,15 @@
 
 ---
 
+## Current Focus:
+
+Github and Stellar Labs contributions.
+
 ## 🏆 Featured Projects
 
 # Projects
 
-### 🏥 [Patient Triage Gen AI](https://github.com/varshahindupur09/patient_triage_gen_ai)  
+### 🏥 [Patient Triage Gen AI](https://github.com/varshahindupur09/Agents/tree/main/Patient-Triage-RAG)  
 AI-powered patient prioritization using RAG architecture with Groq and ChromaDB. Assigns triage levels based on severity with real-time processing.
 
 ### 💊 [MediSwift - Cloud-Native Medicine Delivery](https://github.com/varshahindupur09/Medicine-delivery-app-kubernetes-deployment)  
