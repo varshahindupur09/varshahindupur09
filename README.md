@@ -90,6 +90,16 @@ AI-driven dining platform with Gemma:2B chatbot for ordering, Snowflake analytic
 ### 🫁 [Lung & Colon Cancer Detection - HPC Diagnostics](https://github.com/varshahindupur09/Cancer-Detection-with-High-Performance-Computing-HPC)  
 CUDA-accelerated cancer prediction system achieving 98.7% accuracy with hybrid Dask/DDP pipelines and multi-GPU parallelism.
 
+### [Real Time Event Driven Communication](https://github.com/varshahindupur09/Real_Time_Event_Driven_Communication?tab=readme-ov-file)
+Demonstration of a real time event driven communication system for 2 applications: main app and admin app. Admin app can post products and main app which is for users can like the product. <strong>Tech Stack: RabbitMQ, Angular.js</strong>
+
+---
+
+## Knowledge Base
+
+[High and Low Level System Design:](https://github.com/varshahindupur09/system_design)
+
+
 
 ---
 
