@@ -65,7 +65,8 @@
 
 Github and Stellar Labs contributions.
 
-[Solution Merging (Research Project)](https://github.com/stellis-labs/composables-support/tree/main/Solution%20Merging): Developing a centeralized solution for "on a given problem statement, recieving an array of solution strings as input, then intelligently merging them into a single, coherent solution while adhering to LLM token limits."
+### [Solution Merging (Research Project)](https://github.com/stellis-labs/composables-support/tree/main/Solution%20Merging): 
+Developing a centeralized solution for "on a given problem statement, recieving an array of solution strings as input, then intelligently merging them into a single, coherent solution while adhering to LLM token limits."
 
 ## 🏆 Featured Projects
 
