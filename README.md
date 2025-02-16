@@ -64,6 +64,11 @@
 ## Current Contribution as "Generative AI Developer" in Humanitarian AI company:
 
 Stellis Labs:
+
+### [Domain-Specific Vector Embedding Optimization](https://github.com/varshahindupur09/composables-support/tree/main/Domain-Specific%20Vector%20Embedding%20Optimization)
+Domain-Specific Vector Embedding Optimization: Fine-tuned embedding models on domain-specific data using contrastive learning, RAG-based dataset synthesis, and synthetic data generation, improving retrieval accuracy and performance.
+**Tech Stack:** Hugging Face Transformers, RAG, Llama 3 - 70B (Groq), ChromaDB, all-MiniLM-L12-v2, mxbai-embed-large, Python.
+
 ### [Solution Merging (Research Project)](https://github.com/stellis-labs/composables-support/tree/main/Solution%20Merging): 
 Developing a centeralized solution for "on a given problem statement, recieving an array of solution strings as input, then intelligently merging them into a single, coherent solution while adhering to LLM token limits." 
 **Solution: ** Utilizing Hierarchial Processing Pipeline strategy to Chunk, Summarize using HuggingFace embedding models.
@@ -74,8 +79,8 @@ Developing a centeralized solution for "on a given problem statement, recieving 
 
 # Projects
 
-### 🏥 [Patient Triage Gen AI](https://github.com/varshahindupur09/Agents/tree/main/Patient-Triage-RAG)  
-AI-powered patient prioritization using RAG architecture with Groq and ChromaDB. Assigns triage levels based on severity with real-time processing.
+### 🏥 [Patient Triage LLM Gen AI](https://github.com/varshahindupur09/Agents/tree/main/Patient-Triage-RAG)  
+AI-powered patient prioritization using RAG architecture with Groq and ChromaDB. Assigns triage levels based on severity with real-time processing. This is a Stellis Labs project.
 
 ### 💊 [MediSwift - Cloud-Native Medicine Delivery](https://github.com/varshahindupur09/Medicine-delivery-app-kubernetes-deployment)  
 Kubernetes-powered pharmacy platform handling 5k+ daily transactions with Stripe payments, real-time inventory tracking, and automated delivery scheduling.
