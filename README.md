@@ -25,8 +25,10 @@
 💼 5+ Years Experience in Full-Stack Development & Cloud Engineering  
 🔬 Published Researcher in Secure Data Communication & Spatial Intelligence  
 🚀 Building Scalable AI Solutions & Cloud-Native Applications
-
+💻 Generative AI developer at Humanitarian AI/Stellis Labs where I work on developing LLM-based by fine-tuning LLMs.
 ---
+
+## [Resume](https://drive.google.com/file/d/1blMwAY9HWYNGTDUKgOmS_AkQ6USAnxBi/view?usp=sharing)
 
 ## 🛠️ Technical Arsenal
 
