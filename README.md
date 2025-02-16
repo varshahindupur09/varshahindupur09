@@ -26,6 +26,8 @@
 🔬 Published Researcher in Secure Data Communication & Spatial Intelligence  
 🚀 Building Scalable AI Solutions & Cloud-Native Applications
 💻 Generative AI developer at Humanitarian AI/Stellis Labs where I work on developing LLM-based by fine-tuning LLMs.
+🏆 Lead Research Assistant | Northeastern University. Handpicked by Prof. Kelly Wellman and Prof. Amy Pei to spearhead two high-impact ML/AI projects, delivering cutting-edge AI solutions to professors and key stakeholders. Played a pivotal role in advancing AI-driven research and large-scale data analysis.
+
 ---
 
 ## [Resume](https://drive.google.com/file/d/1blMwAY9HWYNGTDUKgOmS_AkQ6USAnxBi/view?usp=sharing)
