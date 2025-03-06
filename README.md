@@ -88,7 +88,7 @@ Developing a centeralized solution for "on a given problem statement, recieving 
 # Projects
 
 ### 📋 [Java Spring Boot - A Book Library](https://github.com/varshahindupur09/BookLibrary)
-A library that showcases the books they have! Demonstrating backend service development using Java, Springboot, Gradle, Docker. 
+A library that showcases the books they have! Demonstrating backend service development using Java, Springboot, Gradle, Docker, Redis, Jenkins (CI/CD). 
 
 ### 🏥 [Patient Triage LLM Gen AI](https://github.com/varshahindupur09/Agents/tree/main/Patient-Triage-RAG)  
 AI-powered patient prioritization using RAG architecture with Groq and ChromaDB. Assigns triage levels based on severity with real-time processing. This is a Stellis Labs project.
