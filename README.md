@@ -70,9 +70,7 @@
 ### [HandCraftedStyles - HCS](https://github.com/varshahindupur09/HandCraftedStyles): 
 This is a specialized e-commerce platform tailored for artisans and craft sellers. Unlike mainstream marketplaces that are cluttered with various products, HCS is exclusively designed to showcase and promote authentic handcrafted items, providing a dedicated space for genuine creators to market and sell their work. 🔊📢 📣 Let's collaborate if you wish to work on this with me! 🔊📢 📣
 
-## Current Contribution as "Generative AI Developer" in Humanitarian AI company:
-
-Stellis Labs:
+## Current Contribution as "Generative AI Developer" in Humanitarian AI and Stellis Labs company.
 
 ### [Domain-Specific Vector Embedding Optimization](https://github.com/varshahindupur09/composables-support/tree/main/Domain-Specific%20Vector%20Embedding%20Optimization)
 Domain-Specific Vector Embedding Optimization: Fine-tuned embedding models on domain-specific data using contrastive learning, RAG-based dataset synthesis, and synthetic data generation, improving retrieval accuracy and performance.
