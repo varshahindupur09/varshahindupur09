@@ -85,7 +85,9 @@ Developing a centeralized solution for "on a given problem statement, recieving 
 
 ## 🏆 Featured Projects
 
-# Projects
+### [Price Prediction ML Model Deployment in EKS](https://github.com/varshahindupur09/housing_price_prediction_model_deployment/blob/main/READme.md):
+This project demonstrates how EKS (kubectl) with Helm, Terraform provisioning can be used to deploy a Machine Learning model. Configures VPCs and developed APIs to fetch downstream data. 
+[Medium Article](https://medium.com/@varsha.hindupur/ml-prediction-model-deployment-in-aws-eks-75d017507a61)
 
 ### 📋 [Java Spring Boot - A Book Library](https://github.com/varshahindupur09/BookLibrary)
 A library that showcases the books they have! Demonstrating backend service development using Java, Springboot, Gradle, Docker, Redis, Jenkins (CI/CD). 
