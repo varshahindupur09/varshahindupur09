@@ -67,7 +67,8 @@
 
 ## My Own Current On-Going projects!
 
-### [HandCraftedStyles - HCS](https://github.com/varshahindupur09/HandCraftedStyles): is a specialized e-commerce platform tailored for artisans and craft sellers. Unlike mainstream marketplaces that are cluttered with various products, HCS is exclusively designed to showcase and promote authentic handcrafted items, providing a dedicated space for genuine creators to market and sell their work.
+### [HandCraftedStyles - HCS](https://github.com/varshahindupur09/HandCraftedStyles): 
+This is a specialized e-commerce platform tailored for artisans and craft sellers. Unlike mainstream marketplaces that are cluttered with various products, HCS is exclusively designed to showcase and promote authentic handcrafted items, providing a dedicated space for genuine creators to market and sell their work. 🔊📢 📣 Let's collaborate if you wish to work on this with me! 🔊📢 📣
 
 ## Current Contribution as "Generative AI Developer" in Humanitarian AI company:
 
@@ -85,7 +86,7 @@ Developing a centeralized solution for "on a given problem statement, recieving 
 
 ## 🏆 Featured Projects
 
-### [Price Prediction ML Model Deployment in EKS](https://github.com/varshahindupur09/housing_price_prediction_model_deployment/blob/main/READme.md):
+### 💲 [Price Prediction ML Model Deployment in EKS](https://github.com/varshahindupur09/housing_price_prediction_model_deployment/blob/main/READme.md):
 This project demonstrates how EKS (kubectl) with Helm, Terraform provisioning can be used to deploy a Machine Learning model. Configures VPCs and developed APIs to fetch downstream data. 
 [Medium Article](https://medium.com/@varsha.hindupur/ml-prediction-model-deployment-in-aws-eks-75d017507a61)
 
@@ -113,7 +114,7 @@ AI-driven dining platform with Gemma:2B chatbot for ordering, Snowflake analytic
 ### 🫁 [Lung & Colon Cancer Detection - HPC Diagnostics](https://github.com/varshahindupur09/Cancer-Detection-with-High-Performance-Computing-HPC)  
 CUDA-accelerated cancer prediction system achieving 98.7% accuracy with hybrid Dask/DDP pipelines and multi-GPU parallelism.
 
-### [Real Time Event Driven Communication](https://github.com/varshahindupur09/Real_Time_Event_Driven_Communication?tab=readme-ov-file)
+### 📱 [Real Time Event Driven Communication](https://github.com/varshahindupur09/Real_Time_Event_Driven_Communication?tab=readme-ov-file)
 Demonstration of a real time event driven communication system for 2 applications: main app and admin app. Admin app can post products and main app which is for users can like the product. <strong>Tech Stack: RabbitMQ, Angular.js</strong>
 
 ---
