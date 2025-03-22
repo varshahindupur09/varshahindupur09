@@ -71,7 +71,7 @@ This is a specialized e-commerce platform tailored for artisans and craft seller
 ## Current Contribution as "Generative AI Developer" in Humanitarian AI and Stellis Labs company.
 
 ### [Domain-Specific Vector Embedding Optimization](https://github.com/varshahindupur09/composables-support/tree/main/Domain-Specific%20Vector%20Embedding%20Optimization)
-Domain-Specific Vector Embedding Optimization: Fine-tuned embedding models on domain-specific data using contrastive learning, RAG-based dataset synthesis, and synthetic data generation, improving retrieval accuracy and performance.
+Domain-Specific Vector Embedding Optimization: Fine-tuned embedding models on 5000 (synthetic cryptocurrency data) domain-specific data using contrastive learning, RAG-based dataset synthesis, and synthetic data generation, improving retrieval accuracy and performance.<br></br>
 **Tech Stack:** Hugging Face Transformers, RAG, Llama 3 - 70B (Groq), ChromaDB, all-MiniLM-L12-v2, mxbai-embed-large, Python.
 
 ### [Solution Merging (Research Project)](https://github.com/stellis-labs/composables-support/tree/main/Solution%20Merging): 
