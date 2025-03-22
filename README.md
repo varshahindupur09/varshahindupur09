@@ -30,6 +30,10 @@
 
 ---
 
+## [Resume](https://drive.google.com/file/d/1d4b_b7R2W-T9Fkbr2gtEqaEwQFiX5e-p/view?usp=sharing)
+
+---
+
 ## 🛠️ Technical Arsenal
 
 ### ☁️ Cloud & DevOps
