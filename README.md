@@ -30,7 +30,7 @@
 
 ---
 
-## [Resume](https://drive.google.com/file/d/1d4b_b7R2W-T9Fkbr2gtEqaEwQFiX5e-p/view?usp=sharing)
+## [Resume](https://drive.google.com/file/d/1dsFMO-xV1DX6Y2t7NPjlm4sfEW_8zE8N/view?usp=sharing)
 
 ---
 
