@@ -30,7 +30,7 @@
 
 ---
 ## [YouTube](https://www.youtube.com/@VarshaHindupurCodes/videos)
-## [Resume](https://drive.google.com/file/d/1dsFMO-xV1DX6Y2t7NPjlm4sfEW_8zE8N/view?usp=sharing)
+## [Resume](https://docs.google.com/document/d/1MZ5238Rvh_caXThR-mdB83VSZS_rJaC7/edit?usp=sharing&ouid=110379200668264555751&rtpof=true&sd=true)
 
 ---
 
