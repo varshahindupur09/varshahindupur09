@@ -84,10 +84,10 @@ Developing a centeralized solution for "on a given problem statement, recieving 
 [GitHub Issue](https://github.com/stellis-labs/composables-support/issues/17) 
 [GitHub Repo](https://github.com/varshahindupur09/composables-support/tree/main/Domain-Specific%20Vector%20Embedding%20Optimization)
 
-## [Meeting Intelligence: GenAI for Summarization](https://github.com/varshahindupur09/Meeting-Intelligence-Prompt-Engineering-and-Gen-AI-for-Summarization):
+### [Meeting Intelligence: GenAI for Summarization](https://github.com/varshahindupur09/Meeting-Intelligence-Prompt-Engineering-and-Gen-AI-for-Summarization):
 LLM-powered meeting summarization tool using custom prompt engineering to extract key takeaways, action items, and insights. Built with GPT-4, LangChain, and Streamlit. Enables faster, clearer understanding of meeting content. Audio/Videos processed to generate transcript (pipeline) built using WhisperAPIs.
 
-## 🏥 [Patient Triage LLM Gen AI](https://github.com/varshahindupur09/Agents/tree/main/Patient-Triage-RAG)  
+### 🏥 [Patient Triage LLM Gen AI](https://github.com/varshahindupur09/Agents/tree/main/Patient-Triage-RAG)  
 AI-powered patient prioritization using RAG architecture with Groq and ChromaDB. Assigns triage levels based on severity with real-time processing. 
 
 ## 🏆 Featured Projects
