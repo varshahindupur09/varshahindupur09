@@ -29,7 +29,7 @@
 🏆 Lead Research Assistant | Northeastern University. Handpicked by Prof. Kelly Wellman and Prof. Amy Pei to spearhead two high-impact ML/AI projects, delivering cutting-edge AI solutions to professors and key stakeholders. Played a pivotal role in advancing AI-driven research and large-scale data analysis.
 
 ---
-## [YouTube](https://www.youtube.com/@VarshaHindupurCodes/videos)
+## [YouTube Sharing My Generative AI videos](https://www.youtube.com/@VarshaHindupurCodes/videos)
 ## [Resume](https://drive.google.com/file/d/1IlpsUX9rUfLSlGWUOSwbQdnd-HLXQhYK/view?usp=sharing)
 
 ---
