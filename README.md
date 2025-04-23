@@ -88,7 +88,10 @@ Developing a centeralized solution for "on a given problem statement, recieving 
 LLM-powered meeting summarization tool using custom prompt engineering to extract key takeaways, action items, and insights. Built with GPT-4, LangChain, and Streamlit. Enables faster, clearer understanding of meeting content. Audio/Videos processed to generate transcript (pipeline) built using WhisperAPIs.
 
 ### 🏥 [Patient Triage LLM Gen AI](https://github.com/varshahindupur09/Agents/tree/main/Patient-Triage-RAG)  
-AI-powered patient prioritization using RAG architecture with Groq and ChromaDB. Assigns triage levels based on severity with real-time processing. 
+AI-powered patient prioritization using RAG architecture with Groq and ChromaDB. Assigns triage levels based on severity with real-time processing.
+
+### [Movie Mania - Making a movie using AI(RAG Chatbot with LangChain and FAISS)](https://github.com/varshahindupur09/PromptEngineeringInAI/tree/main/RAG_CHATBOT)
+This project showcases how Retrieval-Augmented Generation (RAG) can be implemented using LangChain and FAISS for building a context-aware chatbot. Integrates document loading, vector store indexing, and query processing for efficient response generation. Streamlined for easy deployment and extensibility using GCP Vertex AI.
 
 ## 🏆 Featured Projects
 
