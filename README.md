@@ -91,7 +91,7 @@ LLM-powered meeting summarization tool using custom prompt engineering to extrac
 AI-powered patient prioritization using RAG architecture with Groq and ChromaDB. Assigns triage levels based on severity with real-time processing.
 
 ### 🎥 [Movie Mania - Making a movie using AI(RAG Chatbot with LangChain and FAISS)](https://github.com/varshahindupur09/PromptEngineeringInAI/tree/main/RAG_CHATBOT)
-This project showcases how Retrieval-Augmented Generation (RAG) can be implemented using LangChain and FAISS for building a context-aware chatbot. Integrates document loading, vector store indexing, and query processing for efficient response generation. Streamlined for easy deployment and extensibility using GCP Vertex AI.
+This project showcases how Retrieval-Augmented Generation (RAG) can be implemented using LangChain and FAISS for building a context-aware chatbot. Integrates document loading, vector store indexing, and query processing for efficient response generation. Streamlined for easy deployment and extensibility using GCP Vertex AI. [YouTube](https://www.youtube.com/watch?v=HRHBa0tjPbU)
 
 ## 🏆 Featured Projects
 
