@@ -74,23 +74,23 @@ This is a specialized e-commerce platform tailored for artisans and craft seller
 
 ## Current Contribution as "Generative AI Developer" in Humanitarian AI and Stellis Labs company.
 
-### [Domain-Specific Vector Embedding Optimization](https://github.com/varshahindupur09/composables-support/tree/main/Domain-Specific%20Vector%20Embedding%20Optimization)
+### 🧩 [Domain-Specific Vector Embedding Optimization](https://github.com/varshahindupur09/composables-support/tree/main/Domain-Specific%20Vector%20Embedding%20Optimization)
 Domain-Specific Vector Embedding Optimization: Fine-tuned embedding models on 5000 (synthetic cryptocurrency data) domain-specific data using contrastive learning, RAG-based dataset synthesis, and synthetic data generation, improving retrieval accuracy and performance.<br></br>
 **Tech Stack:** Hugging Face Transformers, RAG, Llama 3 - 70B (Groq), ChromaDB, all-MiniLM-L12-v2, mxbai-embed-large, Python.
 
-### [Solution Merging (Research Project)](https://github.com/stellis-labs/composables-support/tree/main/Solution%20Merging): 
+### 💡 [Solution Merging (Research Project)](https://github.com/stellis-labs/composables-support/tree/main/Solution%20Merging): 
 Developing a centeralized solution for "on a given problem statement, recieving an array of solution strings as input, then intelligently merging them into a single, coherent solution while adhering to LLM token limits." 
 **Solution: ** Utilizing Hierarchial Processing Pipeline strategy to Chunk, Summarize using HuggingFace embedding models.
 [GitHub Issue](https://github.com/stellis-labs/composables-support/issues/17) 
 [GitHub Repo](https://github.com/varshahindupur09/composables-support/tree/main/Domain-Specific%20Vector%20Embedding%20Optimization)
 
-### [Meeting Intelligence: GenAI for Summarization](https://github.com/varshahindupur09/Meeting-Intelligence-Prompt-Engineering-and-Gen-AI-for-Summarization):
+### 🤝 [Meeting Intelligence: GenAI for Summarization](https://github.com/varshahindupur09/Meeting-Intelligence-Prompt-Engineering-and-Gen-AI-for-Summarization):
 LLM-powered meeting summarization tool using custom prompt engineering to extract key takeaways, action items, and insights. Built with GPT-4, LangChain, and Streamlit. Enables faster, clearer understanding of meeting content. Audio/Videos processed to generate transcript (pipeline) built using WhisperAPIs.
 
 ### 🏥 [Patient Triage LLM Gen AI](https://github.com/varshahindupur09/Agents/tree/main/Patient-Triage-RAG)  
 AI-powered patient prioritization using RAG architecture with Groq and ChromaDB. Assigns triage levels based on severity with real-time processing.
 
-### [Movie Mania - Making a movie using AI(RAG Chatbot with LangChain and FAISS)](https://github.com/varshahindupur09/PromptEngineeringInAI/tree/main/RAG_CHATBOT)
+### 🎥 [Movie Mania - Making a movie using AI(RAG Chatbot with LangChain and FAISS)](https://github.com/varshahindupur09/PromptEngineeringInAI/tree/main/RAG_CHATBOT)
 This project showcases how Retrieval-Augmented Generation (RAG) can be implemented using LangChain and FAISS for building a context-aware chatbot. Integrates document loading, vector store indexing, and query processing for efficient response generation. Streamlined for easy deployment and extensibility using GCP Vertex AI.
 
 ## 🏆 Featured Projects
