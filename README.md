@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=varshahindupur09.varshahindupur09" alt="Visitor Badge"/>
-  <h1 align="center">🚀 Hi there, I'm Varsha Seshashayee Hindupur</h1>
+  <h1 align="center">🚀 Hi there, I'm Varsha Hindupur</h1>
   <h3 align="center">Full Stack Engineer | Cloud Architect | AI Researcher</h3>
 </p>
 
