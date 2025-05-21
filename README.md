@@ -30,8 +30,6 @@
 
 ---
 ## [YouTube Sharing My Generative AI videos](https://www.youtube.com/@VarshaHindupurCodes/videos)
-## [Resume](https://drive.google.com/file/d/1IlpsUX9rUfLSlGWUOSwbQdnd-HLXQhYK/view?usp=sharing)
-
 ---
 
 ## 🛠️ Technical Arsenal
