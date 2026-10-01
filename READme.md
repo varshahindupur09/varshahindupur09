@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Varsha Hindupur
 
-### AI / Generative AI | AI Systems | Cloud & Backend Engineering
+### Generative AI | AI Systems | Cloud & Backend Engineering
 
 I build **production-oriented AI systems** that connect Large Language Models, enterprise data, APIs, cloud infrastructure, and software applications.
 
