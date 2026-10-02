@@ -186,7 +186,7 @@ flowchart LR
 Focused on transforming unstructured conversations into usable summaries, decisions, and action items.
 
 Repository:
-[https://github.com/varshahindupur09/Meeting-Intelligence-Prompt-Engineering-and-Gen-AI-for-Summarization](MeetIn)
+(https://github.com/varshahindupur09/Meeting-Intelligence-Prompt-Engineering-and-Gen-AI-for-Summarization)[MeetIn]
 ---
 
 ## 🏥 Patient Triage — RAG-Based AI System
@@ -370,6 +370,8 @@ Key areas:
 - Monitoring
 - AI service architecture
 
+[Sensitive Data Shield](https://github.com/varshahindupur09/Sensitive-Data-Shield-AI-Anomaly-Detection-Platform)
+
 ---
 
 # 🌦️ ML + Data Engineering
@@ -377,6 +379,8 @@ Key areas:
 ## AirCast — Air Quality Prediction
 
 Developed an LSTM-based forecasting platform with data processing pipelines, model inference, and a React-based interface.
+
+[Aircast](https://github.com/varshahindupur09/AirCast-Predicting-Air-Quality-Using-Machine-Learning)
 
 ## Weather Explorer
 
@@ -390,6 +394,8 @@ The project combines:
 - Large datasets
 - Analytics
 - Visualization
+
+[WeatherHacker](https://github.com/varshahindupur09/Weather-Explorer-Interactive-Weather-Data-Visualization)
 
 ---
 
