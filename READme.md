@@ -149,6 +149,13 @@ The project focuses on improving semantic retrieval for specialized domains inst
 
 ---
 
+## Research Professor Kelly's Supporting Website
+
+Architecture Diagram for Chatbot: [https://github.com/varshahindupur09/RA_Online_Instrument_Architecture/blob/main/README_Chatbot.md]! Click Here
+Architecture Diagram for Website: [https://github.com/varshahindupur09/RA_Online_Instrument_Architecture/blob/main/Untitled%20Diagram.drawio]! Click Here 
+
+---
+
 ## 🤝 Meeting Intelligence — GenAI Summarization Pipeline
 
 **LLMs | Whisper | LangChain | GPT | Streamlit**
